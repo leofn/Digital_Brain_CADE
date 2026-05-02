@@ -1,0 +1,2626 @@
+{
+  "NT_01_2013": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__01_2013___Ato_de_Concentra__o_n__08012_010038_2010_43.md"
+  },
+  "2013": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__01_2013___Ato_de_Concentra__o_n__08012_010038_2010_43.md"
+  },
+  "Diagnósticos da América S/A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__01_2013___Ato_de_Concentra__o_n__08012_010038_2010_43.md"
+  },
+  "MDl Diagnósticos S/A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__01_2013___Ato_de_Concentra__o_n__08012_010038_2010_43.md"
+  },
+  "NT_01_2015": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__01_2015___Ato_de_Concentra__o_n__08700_009732_2014_93.md"
+  },
+  "2015": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "Double": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__01_2015___Ato_de_Concentra__o_n__08700_009732_2014_93.md"
+  },
+  "Single": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__01_2015___Ato_de_Concentra__o_n__08700_009732_2014_93.md"
+  },
+  "Preço": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "NT_02_2011": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
+  },
+  "08012.004654/2009-21": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
+  },
+  "2011": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
+  },
+  "ROMELSA": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
+  },
+  "CASAS BAHIA": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
+  },
+  "Casa Bahia": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md",
+    "aliases": [
+      "Casa Bahia Comercial Ltda"
+    ]
+  },
+  "Edu Garcia Comércio Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
+  },
+  "Olavo Zaga Chinaglia\nRequerentes": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
+  },
+  "NT_02_2014": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
+  },
+  "08700.004065/2012-91": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
+  },
+  "2014": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
+  },
+  "Luiz Alberto Esteves\n\nReferência": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
+  },
+  "Autor": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
+  },
+  "NT_02_2015": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "08700.009711/2014-78": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "08012.005306/2002-03": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "08012.001885/2007-11": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "08012.004423/2009-18": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "08700.011891/2014-58": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "Distribuição de Insumos Farmacêuticos e Alimentos Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "Genix - Indústria Farmacêutica Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "GUPPI": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "Regressão": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "Elasticidade": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "Eficiências": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "Concentração": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "Poder de Mercado": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "NT_05_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "08700.006444/2016-49": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "08700.007108/2016-13": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "08700.006464/2016-10": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "08012.009025/2008-15": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Ipiranga Produtos de Petróleo S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md",
+    "aliases": [
+      "Ipiranga\nProdutos de Petróleo S.A"
+    ]
+  },
+  "Alesat Combustíveis S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md",
+    "aliases": [
+      "Alesat Combustíveis\nS.A"
+    ]
+  },
+  "Ale Combustíveis S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Alecred Promotora de Negócios de Crédito Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Alesat Comercial Importações e Exportações Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md",
+    "aliases": [
+      "Alesat\nComercial Importações e Exportações Ltda"
+    ]
+  },
+  "CADE\n\nReferência": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Cade\n\nComo se pode ver pela Figura": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Cade\n\nNa Figura": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "CadeTabela": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Cade\n\nA Figura": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Cade\n\nFigura": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Cade\n\nDa Figura": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Cade\n\nPelos  gr": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Cade\n\nNa Tabela": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "CPPI": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Efeitos Unilaterais": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Efeitos Coordenados": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Aquisição": {
+    "type": "Tipo de Operação",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "NT_06_2014": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__06_2014___Ato_de_Concentra__o_n__08700_005447_2013_12.md"
+  },
+  "08700.005447/2013-12": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__06_2014___Ato_de_Concentra__o_n__08700_005447_2013_12.md"
+  },
+  "Requerentes Anhanguera Educacional Participações S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__06_2014___Ato_de_Concentra__o_n__08700_005447_2013_12.md"
+  },
+  "Kroton Educacional S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__06_2014___Ato_de_Concentra__o_n__08700_005447_2013_12.md",
+    "aliases": [
+      "Kroton Educacional  S.A",
+      "Kroton\n\nEducacional  S.A"
+    ]
+  },
+  "Brasília": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__06_2014___Ato_de_Concentra__o_n__08700_005447_2013_12.md"
+  },
+  "NT_07_2016": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "08700.010266/2015-70": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "2016": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "Upward Pricing Test": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "Gross Upward Pricing Pressure": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "Cade executou an": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "Cade\n\nDeve": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "Cade\n\nA Tabela": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "Cade de": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "Fusão": {
+    "type": "Tipo de Operação",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "NT_07_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "08700.006185/2016-56": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "08700.006696/2016-78": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "08700.006190/2016-69": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "08700.009198/2013-34": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "08012.000125/2012-54": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "2005": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "Participações S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md",
+    "aliases": [
+      "Participações  S.A"
+    ]
+  },
+  "Barreiras à Entrada": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "NT_07": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.002346/2019-85": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.002349/2019-19": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.002350/2019-43": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.002351/2019-98": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.002495/2019-44": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.000266/2016-42": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.004001/2015-32": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.008540/2013-89": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.004151/2012-01": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.004150/2012-59": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.005705/2018-75": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.007190/2008-24": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.000957/2008-94": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.010094/2008-63": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.010095/2008-16": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.005539/2012-70": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.012652/2015-04": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.005704/2018-21": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.004030/2018-47": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.006185/2018-18": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.003459/2016-55": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.008853/2008-28": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.002609/2007-71": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.007443/2009-41": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.000436/2014-27": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "08012.013152/2007-20": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "08012.006553/2007-23": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.009419/2004-31": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08012.010786/2004-88": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "08700.010790/2015-41": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__15_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "08700.009988/2014-09": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "2019": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Casa de Saúde São Bernardo S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "São Bernardo Apart Hospital S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Terapias e Diagnósticos Capixaba Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Acesso restrito ao CADE e às requerentes": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Acesso restrito ao CADE e à Athena": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Acesso restrito ao CADE e a São Bernardo": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Acesso restrito apenas ao CADE": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Athena ES": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "São Bernardo Saúde": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "São Bernardo Apart": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Centro Médico Capixaba": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Total Clínicas": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Athena Saúde Espírito Santo Holding S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Total Clínicas Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "São Bernardo Emergência Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Ativa Serviços Empresariais Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Call Express Central de Atendimento Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Elvino de Carvalho Mendonça no": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "CADE e": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "CADE o seguinte": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "CADE \n\nAssinado eletronicamente no DOCSEI": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "SSNIP": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "Upstream": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "NT_10_2016": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__10_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "Bradesco": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__10_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "HSBC Brasil": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__10_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "HSBC Bank Brasil S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__10_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "HSBC Serviços e Participações Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__10_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "Banco Bradesco S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__10_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "NT_10": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__10___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "CADE\n\nAutos adicionais": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__10___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "CADE abaixo": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__10___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "NT_12_2014": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__12_2014___Ato_de_Concentra__o_n__08700_000811_2014_39.md"
+  },
+  "Seara": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__12_2014___Ato_de_Concentra__o_n__08700_000811_2014_39.md"
+  },
+  "NT_12_2015": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "08700.010224/2014-58": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "Univation": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "CADE buscar": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "CADE acerca da operação em questão é que h": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "Downstream": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "Joint Venture": {
+    "type": "Tipo de Operação",
+    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
+  },
+  "NT_13": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__13___Ato_de_Concentra__o_n__8700_009924_2013_19.md"
+  },
+  "08700.009924/2013-19": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__17_2014___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
+  },
+  "2018": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "Videolar S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
+  },
+  "Petróleo Brasileiro S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
+  },
+  "Petrobras e Innova S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
+  },
+  "Innova S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__13___Ato_de_Concentra__o_n__8700_009924_2013_19.md"
+  },
+  "NT_14": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "08700.005700/2021-48": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "08700.000149/2021-46": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "08700.003654/2021-42": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "08700.006858/2016-78": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "SAS Shipping Agencies Services SÀRS": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "Log- In Logística Intermodal S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md",
+    "aliases": [
+      "Log-\nIn Logística Intermodal S.A"
+    ]
+  },
+  "MSC Mediterranean Shipping Company Holding S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "Guia H": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "Log-In Logística Intermodal S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "CADE\n\nVERSÃO PÚBLICA\n\nReferência": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md"
+  },
+  "Cadeia Produtiva": {
+    "type": "Metodologia",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "NT_15_2016": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__15_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "CADE baseiam": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__15_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
+  },
+  "NT_15": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md"
+  },
+  "08700.005936/2022-65": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18.md"
+  },
+  "HNK BR Indústria de Bebidas Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18.md"
+  },
+  "Ambev S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18.md"
+  },
+  "Ambev ou representada": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18.md"
+  },
+  "Gustavo Augusto Freitas de Lima": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18.md"
+  },
+  "08700.001128/2023-18": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md"
+  },
+  "Vigor": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md"
+  },
+  "Danone": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md"
+  },
+  "Dairy Partners Americanas Brasil Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md",
+    "aliases": [
+      "Dairy Partners\nAmericanas Brasil Ltda"
+    ]
+  },
+  "Vigor Alimentos S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md"
+  },
+  "Danone Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md"
+  },
+  "Dairy Partners Americas Brasil Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md",
+    "aliases": [
+      "Dairy  Partners  Americas  Brasil  Ltda"
+    ]
+  },
+  "NT_16_2016": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__16_2016___Ato_de_Concentra__o_n__08700_003861_2016_30.md"
+  },
+  "2004": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__16_2016___Ato_de_Concentra__o_n__08700_003861_2016_30.md"
+  },
+  "Nestlé Brasil Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__16_2016___Ato_de_Concentra__o_n__08700_003861_2016_30.md",
+    "aliases": [
+      "Nestlé Brasil Ltda"
+    ]
+  },
+  "NT_16": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
+  },
+  "CADE e reforçam os resultados previamente apresentados": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
+  },
+  "CADE e reforçando os resultados previamente apresentados": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
+  },
+  "NT_17_2014": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__17_2014___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
+  },
+  "NT_18_2015": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "08700.009465/2014-54": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "DG Comp": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "Monts Holdings S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "Terminal de Cargas de Sarzedo Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "Terminal de Cargas de Paraopeba Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "Mineração Usiminas S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "Conselheiro M": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
+  },
+  "NT_18": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__18___Ato_de_Concentra__o_n__08700_000166_2018_88.md"
+  },
+  "08700.000166/2018-88": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__18___Ato_de_Concentra__o_n__08700_000166_2018_88.md"
+  },
+  "08700.002165/2017-97": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30_2017___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "Segurança e Transporte de Valores Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18___Ato_de_Concentra__o_n__08700_000166_2018_88.md"
+  },
+  "Rodoban Transportes Terrestres e Aéreos Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18___Ato_de_Concentra__o_n__08700_000166_2018_88.md"
+  },
+  "Rodoban Segurança e Transporte de Valores Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18___Ato_de_Concentra__o_n__08700_000166_2018_88.md"
+  },
+  "Rodoban Serviços e Sistemas de Segurança Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__18___Ato_de_Concentra__o_n__08700_000166_2018_88.md"
+  },
+  "NT_19_2015": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "08012.010195/2004-19": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "08012.003189/2009-10": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "Tigres S/A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "Tubos e Conexões e Condor Pincéis Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "Ato de Concentração envolvendo as empresas Tigre S/A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "NT_19_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md"
+  },
+  "Mataboi Alimentos Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md",
+    "aliases": [
+      "Mataboi Alimentos Ltda"
+    ]
+  },
+  "Fratelli Dorazio Investimentos S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md",
+    "aliases": [
+      "Fratelli Dorazio Investimentos S.A"
+    ]
+  },
+  "Presidente  do  Frigorífico Mataboi": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md"
+  },
+  "Executivo da JBS até janeiro de": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md"
+  },
+  "CADE\n\nAutos n": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md"
+  },
+  "NT_20": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
+  },
+  "08700.003662/2018-93": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
+  },
+  "08012.002734/2005-19": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
+  },
+  "Prosegur": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
+  },
+  "Prosegur Brasil S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md",
+    "aliases": [
+      "Prosegur Brasil\nS.A",
+      "Prosegur  Brasil  S.A"
+    ]
+  },
+  "Segurança e Transfederal Transporte de Valores Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md",
+    "aliases": [
+      "Segurança e\nTransfederal Transporte de Valores Ltda"
+    ]
+  },
+  "Transfederal Transporte de Valores Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md",
+    "aliases": [
+      "Transfederal  Transporte  de  Valores  Ltda",
+      "Transfederal Transporte\n\nde Valores Ltda"
+    ]
+  },
+  "Vigilância e Transporte de Valores Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md",
+    "aliases": [
+      "Vigilância  e  Transporte  de  Valores  Ltda"
+    ]
+  },
+  "Remmo Participações S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_003662_2018_93.md",
+    "aliases": [
+      "Remmo  Participações  S.A"
+    ]
+  },
+  "08700.006345/2018-29": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.006340/2018-04": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.006349/2018-15": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.006350/2018-31": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.006816/2018-07": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.000018/2015-11": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08012.005328/2009-31": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.009363/2015-10": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08012.004089/2009-01": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.004410/2014-58": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.003240/2009-27": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.003900/2009-70": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08012.006209/2010-30": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.006078/2014-66": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.009515/2014-01": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.008213/2015-99": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.001861/2016-03": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.001845/2017-93": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.003613/2017-70": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.001844/2017-49": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.003614/2017-14": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.001860/2016-51": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.003638/2018-54": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.005211/2018-91": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.005212/2018-35": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.005251/2018-32": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "08700.091390/2017-14": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Itaú Unibanco S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Ticket Serviços S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Acesso exclusivo CADE": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Ticket": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Todavia": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Assim como pode ser observado na figura acima": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "A única bandeira que trouxe": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Por fim": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Como é possível inferir das figuras acima": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Desse montante": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Apesar de não representadas acima": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "A respeito dos dados obtidos": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Separando as receitas por tipo de voucher": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Em Vale": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "E veja que em vale transporte a situação j": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Em que pese as receitas de Vale": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Maiores considerações exploratórias": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Frise": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Assim": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Desse modo": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Tomando como referência o esquema acima": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Assinado eletronicamente no DOC SEI": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Códigos": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "NT_21_2014": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md"
+  },
+  "08700.000344/2014-47": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md"
+  },
+  "Fosbrasil": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md"
+  },
+  "Operação": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md"
+  },
+  "Bromisa Industrial e Comercial Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md"
+  },
+  "ICL Brasil Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md"
+  },
+  "Fosbrasil S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md",
+    "aliases": [
+      "Fosbrasil  S.A"
+    ]
+  },
+  "Versão PÚBLICA\n\nAto de Concentração n": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md"
+  },
+  "NT_22": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.006512/2021-37": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.002715/2019-30": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.012337/2015-79": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.004358/2018-63": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.009479/2013-97": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.003683/2016-47": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.008064/2017-20": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.002354/2018-41": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.005825/2018-72": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.003321/2019-07": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.007446/2018-17": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.001008/2019-26": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.003873/2019-15": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.005069/2019-62": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.005880/2019-43": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.004067/2021-71": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.005299/2021-46": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.005843/2021-50": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08012.008685/2007-90": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08012.014090/2007-73": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08012.000777/2011-16": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08700.000419/2015-71": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08012.004482/2011-19": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "08012.003535/2001-20": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "Ream Participações S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "Distribuidora de Petróleo S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "NT_23_2014": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "08700.004185/2014-50": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "2012": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "Continental Aktiengesellschaft": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "Tabela": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "CADE com base no estudo da OCDE": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "Figura": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "CADE\n\nTabela": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "CADE\n\nProb": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "Veyance  disse  ter  participado": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "CADE\n\nVariação": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "Ou  seja": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "CADE\n\nEm que pese\nbaixa intersecção": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "CADE\n\nBrasília": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
+  },
+  "NT_24_2014": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "Difference-in-Differences": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "Requerentes": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "Pública": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "Solvay S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "Braskem S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "Nota Técnica n": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "NT_24": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "08700.002855/2022-11": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "08700.002864/2022-02": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "08700.003554/2022-05": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "08700.002865/2022-49": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "08700.002866/2022-93": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "08700.008857/2014-04": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "08700.001097/2017-49": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__33_2017___Ato_de_Concentra__o_n__08700_001097_2017_49.md"
+  },
+  "A presente operação consiste na parceria comercial entre GDM Genética do Brasil S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "Autos principais públicos": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "GDM Genética do Brasil S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "CADE \n\nAssinado eletronicamente DOCSEI": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "NT_25_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__25_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "NT_26": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "Unidas": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "Localiza": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md",
+    "aliases": [
+      "Localiza Rent a Car S.A"
+    ]
+  },
+  "CADE\n\nProcesso": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "CADE na presente an": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "CADE avaliou as demonstrações": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "CADE compreendem custos que variam entre": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "CADE avaliou o custo anual e o percentual das e": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "CADE  compreendem  custos  que  variam  entre": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "CADE\ncompreendem custos que variam entre": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "NT_28_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__28_2017___Ato_de_Concentra__o_n__08700_001390_2017_14.md"
+  },
+  "08700.001390/2017-14": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__28_2017___Ato_de_Concentra__o_n__08700_001390_2017_14.md"
+  },
+  "2017": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__28_2017___Ato_de_Concentra__o_n__08700_001390_2017_14.md"
+  },
+  "ABRATEL": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__28_2017___Ato_de_Concentra__o_n__08700_001390_2017_14.md"
+  },
+  "Associação": {
+    "type": "Tipo de Operação",
+    "source": "Nota_T_cnica_n__28_2017___Ato_de_Concentra__o_n__08700_001390_2017_14.md"
+  },
+  "NT_29_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08700.002155/2017-51": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08700.002191/2017-15": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.006019/2002-11": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08700.003067/2009-67": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.006043/2008-37": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.002568/2005-51": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08000.009354/1997-82": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.011345/2006-65": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.000637/2009-45": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.008355/2008-85": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.005777/2008-07": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.008939/2008-51": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.005882/2008-38": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "08012.001271/2001-44": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "Companhia Ultragaz S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "Distribuidora S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "Petrobras S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "NT_29": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
+  },
+  "08700.000472/2020-39": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
+  },
+  "Americana S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md",
+    "aliases": [
+      "Americana  S.A"
+    ]
+  },
+  "Gerdau Aços Longos S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md",
+    "aliases": [
+      "Gerdau\nAços Longos S.A"
+    ]
+  },
+  "Siderúrgica Latino-Americana S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
+  },
+  "Companhia Siderúrgica do Espírito Santo S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
+  },
+  "CADE\n\nProcesso n": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
+  },
+  "Ficarão mais claras as mo": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
+  },
+  "08700.003244/2019-87": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "08700.000216/2019-16": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "Prosegur Brasil Transportadora de Valores e Segurança S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md",
+    "aliases": [
+      "Prosegur  Brasil  Transportadora  de  Valores  e  Segurança  S.A"
+    ]
+  },
+  "Transvip - Transporte de Valores e Vigilância Patrimonial Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md",
+    "aliases": [
+      "Transvip  -  Transporte  de  Valores  e  Vigilância  Patrimonial  Ltda",
+      "Transvip\n- Transporte de Valores e Vigilância Patrimonial Ltda"
+    ]
+  },
+  "Transvip": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "Brasil Transportadora de Valores e Segurança S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md",
+    "aliases": [
+      "Brasil  Transportadora  de  Valores  e  Segurança  S.A"
+    ]
+  },
+  "Valores e Vigilância Patrimonial Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md",
+    "aliases": [
+      "Valores  e  Vigilância  Patrimonial  Ltda"
+    ]
+  },
+  "Brasil Transportadora de Valores e Segurança S/A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "Transporte de Valores e Vigilância Patrimonial Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "A Tabela": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "A segunda alegação diz respeito a uma possível pr": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "CADE  da  operação  Brink": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "CADE\n\nAssinado eletronicamente": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "NT_2": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md"
+  },
+  "08700.000869/2015-63": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md"
+  },
+  "08012.009198/2011-21": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "Acesso restrito ao SBDC e CSN": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md"
+  },
+  "USIMINAS": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md"
+  },
+  "Usiminas": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md",
+    "aliases": [
+      "Usinas  Siderúrgicas  de  Minas  Gerais  S/A"
+    ]
+  },
+  "Passados quase dois anos de deterioração de resultados": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md"
+  },
+  "Ampliando o gr": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md"
+  },
+  "Em termos de projeções": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md"
+  },
+  "Votorantim Siderurgia S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30_2017___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "ArcelorMittal & Votorantim Siderurgia S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "CADE e no Parecer": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "CADE e o Parecer": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "CADE referente ao AC n": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "NT_30_2016": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Brasil": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Hypermarcas S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md",
+    "aliases": [
+      "Hypermarcas S.A"
+    ]
+  },
+  "CADE\n\nProcesso n": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Cade\n\n  Tabela": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Cade\n\nNo gr": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Cade\n\nTabela": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Cade\n\nComo se observa": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Cade\n\nEm absolutamente todos os cen": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "NT_30_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__30_2017___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "ArcelorMittal Brasil S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30_2017___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "Do grupo Votorantim S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30_2017___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
+  },
+  "NT_30": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08700.001134/2020-14": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.004117/1999-67": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.001697/2002-89": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.002467/2008-22": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08700.003978/2012-90": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "08012.005226/2000-88": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.003299/2006-21": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.011047/2004-11": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.001166/2008-81": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.002018/2010-07": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32_2017___Ato_de_Concentra__o_n__08012_002018_2010_07.md"
+  },
+  "08012.012185/2011-39": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.011323/2010-81": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "53500.021373/2010-00": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.011603/2011-71": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.009497/2010-84": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.005526/2010-39": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08012.010192/2004-77": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08700.004860/2016-11": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "Seara Alimentos Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "Bunge Alimentos S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md",
+    "aliases": [
+      "Bunge  Alimentos  S.A",
+      "Bunge  Alimentos\nS.A"
+    ]
+  },
+  "Sera Alimentos Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "Bunge Alimentos": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md",
+    "aliases": [
+      "Bunge Alimentos S.A"
+    ]
+  },
+  "BRF S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "08700.003959/2022-35": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.003963/2022-01": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.004690/2022-12": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.005948/2022-90": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.005955/2022-91": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.005961/2022-49": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.006063/2022-16": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.006073/2022-43": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.006074/2022-98": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.006075/2022-32": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.006076/2022-87": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.004426/2020-17": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08012.009606/2011-44": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "2021": {
+    "type": "Ano",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "Or São Luiz S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md",
+    "aliases": [
+      "Or São\nLuiz S.A"
+    ]
+  },
+  "Sul América S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "CADE\nVERSÃO PÚBLICA\nReferência": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "Imagine": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "08700.004437/2020-99": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "08700.004438/2020-33": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "08700.004439/2020-88": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "08700.001434/2021-84": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "08700.002085/2021-18": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "Bus Serviços": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "Acordo em Controle de Concentração": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "Bus Serviços de Agendamento S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "Guichê Virtual Serviços de Internet Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "Operadora e da Bus Serviços de Agendamento S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "Sérgio Costa Ravagnani": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "CADE fez uma avaliação de tais integrações": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "CADE apresenta algumas crí": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "CADE procedeu tal avaliação": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "CADE  analisou": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "NT_32_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__32_2017___Ato_de_Concentra__o_n__08012_002018_2010_07.md"
+  },
+  "08700.000524/2015-18": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32_2017___Ato_de_Concentra__o_n__08012_002018_2010_07.md"
+  },
+  "08012.001875/2010-81": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32_2017___Ato_de_Concentra__o_n__08012_002018_2010_07.md"
+  },
+  "08012.001879/2010-60": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32_2017___Ato_de_Concentra__o_n__08012_002018_2010_07.md"
+  },
+  "08012.002259/2012-18": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32_2017___Ato_de_Concentra__o_n__08012_002018_2010_07.md"
+  },
+  "08700.008231/2016-51": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32_2017___Ato_de_Concentra__o_n__08012_002018_2010_07.md"
+  },
+  "NT_32": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md"
+  },
+  "08700.004046/2022-36": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md"
+  },
+  "08700.004088/2022-77": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md"
+  },
+  "08700.005738/2022-00": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md"
+  },
+  "HAPVIDA Assistência Médica S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md",
+    "aliases": [
+      "HAPVIDA  Assistência  Médica  S.A"
+    ]
+  },
+  "Esmale Assistência Internacional de Saúde Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md",
+    "aliases": [
+      "Esmale  Assistência\nInternacional de Saúde Ltda"
+    ]
+  },
+  "Hospital João Paulo II Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md",
+    "aliases": [
+      "Hospital João Paulo II\nLtda"
+    ]
+  },
+  "Mais Saúde Clínica Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md"
+  },
+  "CADE\n\nVERSÃO DE ACESSO PÚBLICO\n\nReferência": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md"
+  },
+  "NT_33_2017": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__33_2017___Ato_de_Concentra__o_n__08700_001097_2017_49.md"
+  },
+  "Cisão": {
+    "type": "Tipo de Operação",
+    "source": "Nota_T_cnica_n__33_2017___Ato_de_Concentra__o_n__08700_001097_2017_49.md"
+  },
+  "NT_34": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "08700.000726/2021-08": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "Claro S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "Telefônica Brasil S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "TIM S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "Requerentes Claro S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "Oi S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "A figura": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "A relação dos achados por": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  },
+  "NT_35_2016": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08700.004211/2016-10": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08700.004734/2016-58": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08700.004219/2016-78": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08700.003836/2014-94": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08700.000292/2015-90": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08700.006571/2015-67": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08012.011750/2007-64": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08012.014594/2007-93": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08700.003462/2016-79": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "08012.001383/2007-91": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "Iberia": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "British": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "British e Iberia": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "TAM Linhas Aéreas S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "Elvino de\nCarvalho Mendonça no": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
+  },
+  "NT_37": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__37___Ato_de_Concentra__o_n__08700_001846_2020_33.md"
+  },
+  "08700.001846/2020-33": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__37___Ato_de_Concentra__o_n__08700_001846_2020_33.md"
+  },
+  "08700.001877/2020-94": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__37___Ato_de_Concentra__o_n__08700_001846_2020_33.md"
+  },
+  "08700.002466/2020-16": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__37___Ato_de_Concentra__o_n__08700_001846_2020_33.md"
+  },
+  "Acesso restrito às requerentes": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__37___Ato_de_Concentra__o_n__08700_001846_2020_33.md"
+  },
+  "Acesso restrito ao CADE": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__37___Ato_de_Concentra__o_n__08700_001846_2020_33.md"
+  },
+  "Hapvida Assistência Médica Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__37___Ato_de_Concentra__o_n__08700_001846_2020_33.md"
+  },
+  "Plamed Plano de Assistência Médica Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__37___Ato_de_Concentra__o_n__08700_001846_2020_33.md"
+  },
+  "NT_38_2016": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "08700.004865/2016-35": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "08700.004919/2016-62": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "08700.004921/2016-31": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "08700.005686/2016-15": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "08012.005300/2008-13": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "08012.001037/2008-93": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
+  },
+  "BM&FBOVESPA S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md",
+    "aliases": [
+      "BM&FBOVESPA  S.A"
+    ]
+  },
+  "CETIP S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md",
+    "aliases": [
+      "CETIP  S.A"
+    ]
+  },
+  "NT_39": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__39___Ato_de_Concentra__o_n__08700_005979_2017_83.md"
+  },
+  "08700.005979/2017-83": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__39___Ato_de_Concentra__o_n__08700_005979_2017_83.md"
+  },
+  "Gardênia": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__39___Ato_de_Concentra__o_n__08700_005979_2017_83.md"
+  },
+  "União Transporte Interestadual de Luxo S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__39___Ato_de_Concentra__o_n__08700_005979_2017_83.md",
+    "aliases": [
+      "União  Transporte  Interestadual  de  Luxo  S.A",
+      "União\nTransporte Interestadual de Luxo S.A"
+    ]
+  },
+  "Expresso Gardênia Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__39___Ato_de_Concentra__o_n__08700_005979_2017_83.md",
+    "aliases": [
+      "Expresso\nGardênia Ltda",
+      "Expresso  Gardênia  Ltda"
+    ]
+  },
+  "Cade\n\nAssinado eletronicamente no DOC SEI": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__39___Ato_de_Concentra__o_n__08700_005979_2017_83.md"
+  },
+  "NT_3": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "08700.005137/2017-21": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "Owens-Illinois do Brasil Indústria e Comércio Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md",
+    "aliases": [
+      "Owens-Illinois do Brasil\nIndústria e Comércio Ltda"
+    ]
+  },
+  "Nadir Figueiredo Indústria e Comércio S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "Wheaton do Brasil S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md",
+    "aliases": [
+      "Wheaton do Brasil\n\nS.A"
+    ]
+  },
+  "Wheaton": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\nGr": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\no": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\nos  copos  não  se  beneficiaram  dessas  medidas": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\nda  política": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\nmesma política": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\nContabilizando os custos de internação": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\ncaso que após a operação": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\nNCM": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "CADE\n\nfragilidade  dos  resultados  obtidos": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
+  },
+  "NT_40": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__40___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
+  },
+  "Transfederal": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__40___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
+  },
+  "Carlos Ragazzo": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__40___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
+  },
+  "CADE\n\nque  trata  do  ato  de  concentração  entre  BM": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__40___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
+  },
+  "NT_41_2016": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "08700.005683/2016-81": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "08700.005684/2016-26": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "08700.005898/2016-01": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "Argentina e representação no Brasil via SOLVAY INDUPA DO BRASIL S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "UNIPAR CARBOCLORO S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "Policloreto de Polivinila": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "SOLVAY INDUPA S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "SOLVAY INDUPA DO BRASIL S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "Brasil via SOLVAY INDUPA DO BRASIL S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__41_2016___Ato_de_Concentra__o_n__08700_005683_2016_81.md"
+  },
+  "NT_44": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__44___Ato_de_Concentra__o_n__08700_003594_2021_68.md"
+  },
+  "08700.003594/2021-68": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__44___Ato_de_Concentra__o_n__08700_003594_2021_68.md"
+  },
+  "08700.007555/2016-72": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__44___Ato_de_Concentra__o_n__08700_003594_2021_68.md"
+  },
+  "08700.005470/2019-01": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__44___Ato_de_Concentra__o_n__08700_003594_2021_68.md"
+  },
+  "NT_47": {
+    "type": "Nota Técnica",
+    "source": "Nota_T_cnica_n__47___Ato_de_Concentra__o_n__08700_002569_2020_86.md"
+  },
+  "08700.002569/2020-86": {
+    "type": "Processo",
+    "source": "Nota_T_cnica_n__47___Ato_de_Concentra__o_n__08700_002569_2020_86.md"
+  },
+  "Tupy S.A": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__47___Ato_de_Concentra__o_n__08700_002569_2020_86.md"
+  },
+  "Ensino a Distância (EAD)": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "Serviços de Ensino": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "Mercado de Soja": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "Rent a Car (RAC)": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "Rent a Car": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "GLP Envasado": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "GLP Granel": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "São Paulo (Geográfico)": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
+  },
+  "poder de mercado": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "concentração horizontal": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
+  },
+  "efeitos unilaterais": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "efeitos coordenados": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "Ferro de Silício": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
+  },
+  "barreiras à entrada": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
+  },
+  "Planos de Saúde Médico-Hospitalar Coletivos": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Planos de Saúde": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Saúde Suplementar": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "participação relevante": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "fechamento de mercado": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "concentração vertical": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
+  },
+  "Pratos Prontos": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__12_2014___Ato_de_Concentra__o_n__08700_000811_2014_39.md"
+  },
+  "conglomerado": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
+  },
+  "prejuízo à concorrência": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
+  },
+  "discriminação de preços": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
+  },
+  "Serviços Portuários": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
+  },
+  "Policloreto de Vinila": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
+  },
+  "Insumos Agrícolas": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
+  },
+  "Derivados de Petróleo": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__25_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "preço predatório": {
+    "type": "Preocupação Concordrencial",
+    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
+  },
+  "GLP granel": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
+  },
+  "Preservativos Masculinos": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Lubrificantes Íntimos": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
+  },
+  "Viações Rodoviárias": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
+  },
+  "Serviço Móvel Pessoal": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__34___Ato_de_Concentra__o_n__08700_000726_2021_08.md"
+  }
+}

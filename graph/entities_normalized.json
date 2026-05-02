@@ -1,0 +1,64 @@
+{
+  "** Victor Gomes e Silva Felippe Costa Bispo": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__01_2013___Ato_de_Concentra__o_n__08012_010038_2010_43.md"
+  },
+  "** p<0.05": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "* p<0.1": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
+  },
+  "• Kroton Educacional S.A. (“Kroton”)": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md",
+    "aliases": [
+      "•  Kroton Educacional S.A. (“Kroton”)"
+    ]
+  },
+  "(“Prosegur”)": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md",
+    "aliases": [
+      "(“Prosegur”)"
+    ]
+  },
+  "(“Transvip”)": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md",
+    "aliases": [
+      "(“Transvip”)"
+    ]
+  },
+  "": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md",
+    "aliases": [
+      "(USIMINAS)"
+    ]
+  },
+  "(Brasil) Ltda": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md",
+    "aliases": [
+      "(Brasil) Ltda"
+    ]
+  },
+  "óleos vegetais": {
+    "type": "Mercado",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_001134_2020_14.md"
+  },
+  "54% de demanda (referente à fórmula": {
+    "type": "Autor",
+    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
+  },
+  "(“CETIP”)": {
+    "type": "Empresa",
+    "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md",
+    "aliases": [
+      "(“CETIP”)"
+    ]
+  }
+}

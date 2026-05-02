@@ -1,0 +1,2397 @@
+[
+  {
+    "subject": "NT_1_2013",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_1_2013",
+    "predicate": "ano",
+    "object": "2013"
+  },
+  {
+    "subject": "NT_1_2013",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_1_2013",
+    "predicate": "processo",
+    "object": "08012/010038/2010/43"
+  },
+  {
+    "subject": "NT_1_2013",
+    "predicate": "analisa_mercado",
+    "object": "serviço de apoio diagnóstico"
+  },
+  {
+    "subject": "NT_1_2013",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "** Victor Gomes e Silva Felippe Costa Bispo",
+    "predicate": "autor_de",
+    "object": "NT_1_2013"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "processo",
+    "object": "08700/009732/2014/93"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_2_2011",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_2_2011",
+    "predicate": "ano",
+    "object": "2011"
+  },
+  {
+    "subject": "NT_2_2011",
+    "predicate": "processo",
+    "object": "08012/004654/2009/21"
+  },
+  {
+    "subject": "NT_2_2011",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_2_2011",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "Washington Luis Baldez",
+    "predicate": "autor_de",
+    "object": "NT_2_2011"
+  },
+  {
+    "subject": "Eduardo Pontual Ribeiro",
+    "predicate": "autor_de",
+    "object": "NT_2_2011"
+  },
+  {
+    "subject": "Ernani César e Silva Cabral",
+    "predicate": "autor_de",
+    "object": "NT_2_2011"
+  },
+  {
+    "subject": "NT_2_2014",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_2_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_2_2014",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_2_2014",
+    "predicate": "processo",
+    "object": "08700.004065/2012-91"
+  },
+  {
+    "subject": "NT_2_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "Luiz Alberto Esteves",
+    "predicate": "autor_de",
+    "object": "NT_2_2014"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "processo",
+    "object": "08700.009711/2014-78"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "analisa_mercado",
+    "object": "cápsulas"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "utiliza_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_2_2015",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "ano",
+    "object": "2017"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "processo",
+    "object": "08700.006444/2016-49"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "combustíveis líquidos foi a introdução da tecnologia\nflex em carros populares"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "distribuição e revenda junto às requerentes"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "distribuição de gasolina"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "distribuição de álcool"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "revenda"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "distribuição de gasolina c na região nordeste"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "combustíveis líquidos"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "combustíveis no brasil"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "analisa_mercado",
+    "object": "combustíveis líquidos na\ndistribuição e na revenda"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "CPPI"
+  },
+  {
+    "subject": "NT_5_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "DEE/Cade. Erros Padrões Robustos entre Parênteses. *** p<0.01",
+    "predicate": "autor_de",
+    "object": "NT_5_2017"
+  },
+  {
+    "subject": "** p<0.05",
+    "predicate": "autor_de",
+    "object": "NT_5_2017"
+  },
+  {
+    "subject": "* p<0.1",
+    "predicate": "autor_de",
+    "object": "NT_5_2017"
+  },
+  {
+    "subject": "NT_6_2014",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_6_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_6_2014",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_6_2014",
+    "predicate": "processo",
+    "object": "08700.005447/2013-12"
+  },
+  {
+    "subject": "NT_6_2014",
+    "predicate": "analisa_mercado",
+    "object": "ensino superior à distância"
+  },
+  {
+    "subject": "NT_6_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "** Dimas Fazio Washington Luis Baldez Gerson Carvalho Bênia Felippe Costa Bispo Tainá Leandro Luiz Alberto Esteves",
+    "predicate": "autor_de",
+    "object": "NT_6_2014"
+  },
+  {
+    "subject": "NT_7_2016",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_7_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_7_2016",
+    "predicate": "processo",
+    "object": "08700.010266/2015-70"
+  },
+  {
+    "subject": "NT_7_2016",
+    "predicate": "analisa_mercado",
+    "object": "carberto de silício metalúrgico e cristal"
+  },
+  {
+    "subject": "NT_7_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_7_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_7_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_7_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "Luiz Alberto Esteves e João Carlos Nicolini de Morais.",
+    "predicate": "autor_de",
+    "object": "NT_7_2016"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "ano",
+    "object": "2017"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "processo",
+    "object": "08700.006185/2016-56"
+  },
+  {
+    "subject": "• Kroton Educacional S.A. (“Kroton”)",
+    "predicate": "requerente_em",
+    "object": "NT_7_2017"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "analisa_mercado",
+    "object": "educação no brasil"
+  },
+  {
+    "subject": "• Kroton Educacional S.A. (“Kroton”)",
+    "predicate": "atua_em",
+    "object": "educação no brasil"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "analisa_mercado",
+    "object": "ead um mercado distinto do presencial"
+  },
+  {
+    "subject": "• Kroton Educacional S.A. (“Kroton”)",
+    "predicate": "atua_em",
+    "object": "ead um mercado distinto do presencial"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "analisa_mercado",
+    "object": "ensino a distância"
+  },
+  {
+    "subject": "• Kroton Educacional S.A. (“Kroton”)",
+    "predicate": "atua_em",
+    "object": "ensino a distância"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "analisa_mercado",
+    "object": "prestação de serviços do ensino\n\nsuperior"
+  },
+  {
+    "subject": "• Kroton Educacional S.A. (“Kroton”)",
+    "predicate": "atua_em",
+    "object": "prestação de serviços do ensino\n\nsuperior"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "analisa_mercado",
+    "object": "graduação ead"
+  },
+  {
+    "subject": "• Kroton Educacional S.A. (“Kroton”)",
+    "predicate": "atua_em",
+    "object": "graduação ead"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "analisa_mercado",
+    "object": "graduação presencial e a distância são dois mercados distintos a princípio e"
+  },
+  {
+    "subject": "• Kroton Educacional S.A. (“Kroton”)",
+    "predicate": "atua_em",
+    "object": "graduação presencial e a distância são dois mercados distintos a princípio e"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "diff-in-diff"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "barreira[s] de entrada"
+  },
+  {
+    "subject": "NT_7_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "ano",
+    "object": "2020"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "processo",
+    "object": "08700.005705/2018-75"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "analisa_mercado",
+    "object": "planos  de\nassistência  à  saúde"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "analisa_mercado",
+    "object": "planos de saúde"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "analisa_mercado",
+    "object": "plano  de  saúde  relevam  que  não  é  possível  considerar  novas  entradas"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_10_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "processo",
+    "object": "08700/000811/2014/39"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "Dimas Mateus Fazio",
+    "predicate": "autor_de",
+    "object": "NT_12_2014"
+  },
+  {
+    "subject": "Simone Maciel Cuiabano",
+    "predicate": "autor_de",
+    "object": "NT_12_2014"
+  },
+  {
+    "subject": "Tainá Leandro",
+    "predicate": "autor_de",
+    "object": "NT_12_2014"
+  },
+  {
+    "subject": "Luiz Alberto Esteves",
+    "predicate": "autor_de",
+    "object": "NT_12_2014"
+  },
+  {
+    "subject": "Referência: Memorando n.0  127/2014/CGAAI",
+    "predicate": "autor_de",
+    "object": "NT_12_2014"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "ano",
+    "object": "2022"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "processo",
+    "object": "08700.005700/2021-48"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "analisa_mercado",
+    "object": "cabotagem nacional"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "analisa_mercado",
+    "object": "cabotagem"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "analisa_mercado",
+    "object": "transporte logístico no país"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "analisa_mercado",
+    "object": "transporte marítimo de contêineres"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_14_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "ano",
+    "object": "2023"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "processo",
+    "object": "08700.001128/2023-18"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "analisa_mercado",
+    "object": "sobremesa láctea e de\nleite fermentado"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "analisa_mercado",
+    "object": "sobremesa  láctea  e  de  leite\nfermentado"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "utiliza_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "utiliza_metodologia",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_15_2023",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "processo",
+    "object": "08700/003861/2016/30"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates\ncom  base  na  evolução  das  participações  d"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates no brasil"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "coberturas de chocolate\n\n18"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates sob todas as formas\n\n20"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates sob todas as formas inclui"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolate de alta qualidade"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "coberturas"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "coberturas de chocolate"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates  sob  todas  as  formas"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates se alterou significantemente nos\núltimos 14 anos"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates em geral pode afetar os negócios das grandes indústrias do setor"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "cobertura de chocolate"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates sob todas as formas"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates e avaliação da\nproposta de desinvestimentos"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa_mercado",
+    "object": "chocolates"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "Luiz Alberto Esteves",
+    "predicate": "autor_de",
+    "object": "NT_16_2016"
+  },
+  {
+    "subject": "João Carlos Nicolini de Morais e Gerson",
+    "predicate": "autor_de",
+    "object": "NT_16_2016"
+  },
+  {
+    "subject": "Carvalho Benia",
+    "predicate": "autor_de",
+    "object": "NT_16_2016"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "ano",
+    "object": "2017"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "processo",
+    "object": "08700/007553/2016/83"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "analisa_mercado",
+    "object": "boi da scot consultoria"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "analisa_mercado",
+    "object": "refrigerantes\ncarbonatados"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "processo",
+    "object": "08700.003662/2018-93"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "analisa_mercado",
+    "object": "transporte de valores no brasil"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "analisa_mercado",
+    "object": "tv em valores corrigidos pela inflação"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "analisa_mercado",
+    "object": "segurança privada"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "analisa_mercado",
+    "object": "transporte e\ncustódia  de  valores"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "CPPI"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "processo",
+    "object": "08700.000344/2014-47"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "processo",
+    "object": "08700.004185/2014-50"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "cvb têxtil\n\n3"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "leilões com o mercado regular"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "leilões no curto prazo"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "molas pneumáticas"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "cvb aço\n\n3"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "cvb  aço  pela\n\npresença da continental"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "leilões"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "leilões  podem  ter  impactos\n\nconcorrenciais"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "concorrência privada"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa_mercado",
+    "object": "licitação  ser  tão\n\ndiferenciado e complexo"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "herfindahl"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "DEE/CADE com base no estudo da OCDE (2006)",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "ano",
+    "object": "2021"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "processo",
+    "object": "08700.000149/2021-46"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "analisa_mercado",
+    "object": "rent a car considera também a atuação das empresas em aeroportos"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "analisa_mercado",
+    "object": "insumos"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "analisa_mercado",
+    "object": "rent a car\n\nconsiderando as análises e descrições apresentadas"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "analisa_mercado",
+    "object": "rac é segmentado em diferentes categorias de veículos"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "analisa_mercado",
+    "object": "carros  usados  é  amplo  e  pulverizado"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "analisa_mercado",
+    "object": "rac  no  brasil"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "analisa_mercado",
+    "object": "veículos novos não parece coincidir com uma estrutura d"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "NT_26_2021",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_29_2020",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_29_2020",
+    "predicate": "ano",
+    "object": "2020"
+  },
+  {
+    "subject": "NT_29_2020",
+    "predicate": "processo",
+    "object": "08700.000472/2020-39"
+  },
+  {
+    "subject": "NT_29_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_29_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_29_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "DEE.",
+    "predicate": "autor_de",
+    "object": "NT_29_2020"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "ano",
+    "object": "2019"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "processo",
+    "object": "08700.000166/2018-88"
+  },
+  {
+    "subject": "(“Prosegur”)",
+    "predicate": "requerente_em",
+    "object": "NT_29_2019"
+  },
+  {
+    "subject": "(“Transvip”)",
+    "predicate": "requerente_em",
+    "object": "NT_29_2019"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "analisa_mercado",
+    "object": "transportes  de  valores"
+  },
+  {
+    "subject": "(“Prosegur”)",
+    "predicate": "atua_em",
+    "object": "transportes  de  valores"
+  },
+  {
+    "subject": "(“Transvip”)",
+    "predicate": "atua_em",
+    "object": "transportes  de  valores"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "analisa_mercado",
+    "object": "transporte  e  custódia  de  valores"
+  },
+  {
+    "subject": "(“Prosegur”)",
+    "predicate": "atua_em",
+    "object": "transporte  e  custódia  de  valores"
+  },
+  {
+    "subject": "(“Transvip”)",
+    "predicate": "atua_em",
+    "object": "transporte  e  custódia  de  valores"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "analisa_mercado",
+    "object": "são\npaulo"
+  },
+  {
+    "subject": "(“Prosegur”)",
+    "predicate": "atua_em",
+    "object": "são\npaulo"
+  },
+  {
+    "subject": "(“Transvip”)",
+    "predicate": "atua_em",
+    "object": "são\npaulo"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "analisa_mercado",
+    "object": "cada uma das empresas"
+  },
+  {
+    "subject": "(“Prosegur”)",
+    "predicate": "atua_em",
+    "object": "cada uma das empresas"
+  },
+  {
+    "subject": "(“Transvip”)",
+    "predicate": "atua_em",
+    "object": "cada uma das empresas"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "analisa_mercado",
+    "object": "rio de janeiro e são paulo"
+  },
+  {
+    "subject": "(“Prosegur”)",
+    "predicate": "atua_em",
+    "object": "rio de janeiro e são paulo"
+  },
+  {
+    "subject": "(“Transvip”)",
+    "predicate": "atua_em",
+    "object": "rio de janeiro e são paulo"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_29_2019",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "DEE",
+    "predicate": "autor_de",
+    "object": "NT_29_2019"
+  },
+  {
+    "subject": "NT_2_2019",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_2_2019",
+    "predicate": "ano",
+    "object": "2019"
+  },
+  {
+    "subject": "NT_2_2019",
+    "predicate": "processo",
+    "object": "08700.000869/2015-63"
+  },
+  {
+    "subject": "",
+    "predicate": "requerente_em",
+    "object": "NT_2_2019"
+  },
+  {
+    "subject": "NT_2_2019",
+    "predicate": "analisa_mercado",
+    "object": "aço e também da própria\neconomia brasileira"
+  },
+  {
+    "subject": "",
+    "predicate": "atua_em",
+    "object": "aço e também da própria\neconomia brasileira"
+  },
+  {
+    "subject": "NT_2_2019",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_2_2019",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "DEE",
+    "predicate": "autor_de",
+    "object": "NT_2_2019"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "processo",
+    "object": "08700/003462/2016/79"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "requerente_em",
+    "object": "NT_30_2016"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "preservativos"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "preservativos"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "lubrificantes íntimos para os cenários analisados"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "lubrificantes íntimos para os cenários analisados"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "lubrificantes íntimos tais eficiências\nforam de ape"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "lubrificantes íntimos tais eficiências\nforam de ape"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "lubrificantes íntimos com vagidrat\n\ntabela a"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "lubrificantes íntimos com vagidrat\n\ntabela a"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "lubrificantes íntimos"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "lubrificantes íntimos"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "preservativos e de lubrificantes"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "preservativos e de lubrificantes"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "preservativos masculinos e lubrificantes íntimos"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "preservativos masculinos e lubrificantes íntimos"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "lubrificantes íntimos que as demais marcas analisadas"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "lubrificantes íntimos que as demais marcas analisadas"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa_mercado",
+    "object": "lubrificantes"
+  },
+  {
+    "subject": "(Brasil) Ltda",
+    "predicate": "atua_em",
+    "object": "lubrificantes"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "Guilherme Mendes Resende e João Carlos Nicolini de Morais.",
+    "predicate": "autor_de",
+    "object": "NT_30_2016"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "ano",
+    "object": "2020"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "processo",
+    "object": "08700.001134/2020-14"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "margarinas"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "maioneses"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "uma empresa"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "óleos vegetais"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "margari"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "margarina"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "cada empresa reﬂete as preferências\ne escolhas dos seus consumidores"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "agronegócio e de alimentos"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "analisa_mercado",
+    "object": "alimentos"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "herfindahl"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_30_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "ano",
+    "object": "2022"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "processo",
+    "object": "08700.003959/2022-35"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "saúde dos eua"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "saúde suplementar\nbrasileiro"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "destino do foreclosure"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "seguradoras de saúde sobre os prêmios"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "origem e destino na metodologia de aritmética vertical"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "saúde no\nbrasil"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "seguros brasileiro desde 1895"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "planos de saúde"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "origem da conduta exclusionária"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "destino do fechamento"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "origem da conduta é um dos pressupostos relacionados à\ncapacidade de fechamento"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "serviços de cuidados à saúde"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "serviços de\ncuidados à saúde"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "varejo"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "analisa_mercado",
+    "object": "estabelecimentos de saúde"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_30_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "DEE.",
+    "predicate": "autor_de",
+    "object": "NT_30_2022"
+  },
+  {
+    "subject": "Entretanto",
+    "predicate": "autor_de",
+    "object": "NT_30_2022"
+  },
+  {
+    "subject": "se o agente desviar 54",
+    "predicate": "autor_de",
+    "object": "NT_30_2022"
+  },
+  {
+    "subject": "54% de demanda (referente à fórmula",
+    "predicate": "autor_de",
+    "object": "NT_30_2022"
+  },
+  {
+    "subject": "m1/(m1+m2)) conseguirá manter o lucro pré-operação",
+    "predicate": "autor_de",
+    "object": "NT_30_2022"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "ano",
+    "object": "2022"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "processo",
+    "object": "08700.004046/2022-36"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "analisa_mercado",
+    "object": "planos de saúde"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "analisa_mercado",
+    "object": "alta rivalidade"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "analisa_mercado",
+    "object": "joão  pessoa"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "analisa_mercado",
+    "object": "campina  grande"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_32_2022",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "processo",
+    "object": "08700.004211/2016-10"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "analisa_mercado",
+    "object": "transporte aéreo de passageiros resulta em ape"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_None_None",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "ano",
+    "object": "2020"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "processo",
+    "object": "08700.001846/2020-33"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "analisa_mercado",
+    "object": "serviços  médicos  hospitalares"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_37_2020",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08700.004860/2016-11"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "requerente_em",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "crédito"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "crédito"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "crédito  para  os  órgãos  de  trânsito"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "crédito  para  os  órgãos  de  trânsito"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "bolsas de valores"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "bolsas de valores"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "balcão"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "balcão"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "negociação e pouca variação de hhi"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "negociação e pouca variação de hhi"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "negociação"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "negociação"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "depósito e registro"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "depósito e registro"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "financiamento de veículos e crédito imobiliário"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "financiamento de veículos e crédito imobiliário"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "registro e de depósito"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "registro e de depósito"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "crédito  imobiliário"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "crédito  imobiliário"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "transmissão de rádio por satélite"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "transmissão de rádio por satélite"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "balcão organizado"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "balcão organizado"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "balcão não organizado como um todo"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "balcão não organizado como um todo"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "liquidação separado do mercado de\ncompensação"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "liquidação separado do mercado de\ncompensação"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa_mercado",
+    "object": "bolsa e"
+  },
+  {
+    "subject": "(“CETIP”)",
+    "predicate": "atua_em",
+    "object": "bolsa e"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "utiliza_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "ano",
+    "object": "2018"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "processo",
+    "object": "08700.005979/2017-83"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "analisa_mercado",
+    "object": "transporte de passageiros na seção"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "analisa_mercado",
+    "object": "interesse"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_39_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "DEE/CADE.",
+    "predicate": "autor_de",
+    "object": "NT_39_2018"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "ano",
+    "object": "2018"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "processo",
+    "object": "08700.005137/2017-21"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "analisa_mercado",
+    "object": "utilidades domésticas de vidros"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "analisa_mercado",
+    "object": "utilidades domésticas desagregado por ncms\n\na análise anterior mostrou"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "analisa_mercado",
+    "object": "utilidades domésticas de vidro"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "analisa_mercado",
+    "object": "utilidades  domésticas  é  composto  por  diversos  produtos  como\n\ncopos"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "analisa_mercado",
+    "object": "embalagens de vidro"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "analisa_mercado",
+    "object": "utilidades  domésticas  de\n\nvidro"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_3_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "DEE. Nota: Faturamento em R$ a preços constantes de dezembro de 2016 obtidos no Alice -Web.",
+    "predicate": "autor_de",
+    "object": "NT_3_2018"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "ano",
+    "object": "2018"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "processo",
+    "object": "08700.003662/2018-93"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "analisa_mercado",
+    "object": "tocantins"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "analisa_mercado",
+    "object": "custódia e transporte de valores"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "eficiencias"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "elasticidade"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "UPP"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  },
+  {
+    "subject": "NT_40_2018",
+    "predicate": "utiliza_metodologia",
+    "object": "regressao"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "tipo",
+    "object": "Nota Técnica CADE"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "ano",
+    "object": "2021"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "departamento",
+    "object": "DEE/CADE"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "processo",
+    "object": "08700.003594/2021-68"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "prestação  de  serviços  de  saúde"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "prestadores localizados mais próximos da residência do paciente"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "forma mais amplo"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "requerentes em atos de concentração"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "oncologia variou em casos passados"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "prestação de serviços de saúde e de planos de saúde"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "prestação  de\nserviços de saúde"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "planos de saúde"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "analisa_mercado",
+    "object": "prestação de serviços de saúde quanto no de planos de saúde"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "utiliza_metodologia",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "utiliza_metodologia",
+    "object": "preco"
+  },
+  {
+    "subject": "NT_44_2021",
+    "predicate": "utiliza_metodologia",
+    "object": "concentracao"
+  }
+]

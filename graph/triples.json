@@ -1,0 +1,7452 @@
+[
+  {
+    "subject": "NT_01_2013",
+    "predicate": "ano",
+    "object": "2013"
+  },
+  {
+    "subject": "NT_01_2013",
+    "predicate": "analisa",
+    "object": "Diagnósticos da América S/A"
+  },
+  {
+    "subject": "NT_01_2013",
+    "predicate": "analisa",
+    "object": "MDl Diagnósticos S/A"
+  },
+  {
+    "subject": "NT_01_2015",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_01_2015",
+    "predicate": "analisa",
+    "object": "Double"
+  },
+  {
+    "subject": "NT_01_2015",
+    "predicate": "analisa",
+    "object": "Single"
+  },
+  {
+    "subject": "NT_01_2015",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_01_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_02_2011",
+    "predicate": "processo",
+    "object": "08012.004654/2009-21"
+  },
+  {
+    "subject": "NT_02_2011",
+    "predicate": "ano",
+    "object": "2011"
+  },
+  {
+    "subject": "NT_02_2011",
+    "predicate": "analisa",
+    "object": "ROMELSA"
+  },
+  {
+    "subject": "NT_02_2011",
+    "predicate": "analisa",
+    "object": "CASAS BAHIA"
+  },
+  {
+    "subject": "NT_02_2011",
+    "predicate": "analisa",
+    "object": "Casa Bahia"
+  },
+  {
+    "subject": "NT_02_2011",
+    "predicate": "analisa",
+    "object": "Edu Garcia Comércio Ltda"
+  },
+  {
+    "subject": "Olavo Zaga Chinaglia\nRequerentes",
+    "predicate": "autor_de",
+    "object": "NT_02_2011"
+  },
+  {
+    "subject": "NT_02_2011",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_02_2014",
+    "predicate": "processo",
+    "object": "08700.004065/2012-91"
+  },
+  {
+    "subject": "NT_02_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "Luiz Alberto Esteves\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_02_2014"
+  },
+  {
+    "subject": "Autor",
+    "predicate": "autor_de",
+    "object": "NT_02_2014"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "processo",
+    "object": "08700.009711/2014-78"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "processo",
+    "object": "08012.005306/2002-03"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "processo",
+    "object": "08012.001885/2007-11"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "processo",
+    "object": "08012.004423/2009-18"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "processo",
+    "object": "08700.011891/2014-58"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "analisa",
+    "object": "Distribuição de Insumos Farmacêuticos e Alimentos Ltda"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "analisa",
+    "object": "Genix - Indústria Farmacêutica Ltda"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "mercado_relevante",
+    "object": "cápsulas"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "mercado_relevante",
+    "object": "avaliar em que medida é possível haver danos à concorrência"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "mercado_relevante",
+    "object": "razão da presente operação"
+  },
+  {
+    "subject": "ou do Superintendente",
+    "predicate": "autor_de",
+    "object": "NT_02_2015"
+  },
+  {
+    "subject": "do Departamento de Estudos Econômicos do FTC",
+    "predicate": "autor_de",
+    "object": "NT_02_2015"
+  },
+  {
+    "subject": "pretenderão debater tais argumentos",
+    "predicate": "autor_de",
+    "object": "NT_02_2015"
+  },
+  {
+    "subject": "realizou o teste da perda crítica",
+    "predicate": "autor_de",
+    "object": "NT_02_2015"
+  },
+  {
+    "subject": "comparou este valor com a elasticidade de fato",
+    "predicate": "autor_de",
+    "object": "NT_02_2015"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "processo",
+    "object": "08700.006444/2016-49"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "processo",
+    "object": "08700.007108/2016-13"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "processo",
+    "object": "08700.006464/2016-10"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "processo",
+    "object": "08012.009025/2008-15"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "analisa",
+    "object": "Ipiranga Produtos de Petróleo S.A"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "analisa",
+    "object": "Alesat Combustíveis S.A"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "analisa",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "analisa",
+    "object": "Ale Combustíveis S.A"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "analisa",
+    "object": "Alecred Promotora de Negócios de Crédito Ltda"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "analisa",
+    "object": "Alesat Comercial Importações e Exportações Ltda"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "mercado_relevante",
+    "object": "combustíveis líquidos foi a introdução da tecnologia"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "mercado_relevante",
+    "object": "caracterizar a revenda e a natureza dos preços nesses mercados em relação aos"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "mercado_relevante",
+    "object": "combustíveis no Brasil"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "mercado_relevante",
+    "object": "combustíveis líquidos"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "Cade\n\nComo se pode ver pela Figura",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "Cade\n\nNa Figura",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "CadeTabela",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "Cade\n\nA Figura",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "Cade\n\nFigura",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "Cade\n\nDa Figura",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "Cade\n\nPelos  gr",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "Cade\n\nNa Tabela",
+    "predicate": "autor_de",
+    "object": "NT_05_2017"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "CPPI"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_06_2014",
+    "predicate": "processo",
+    "object": "08700.005447/2013-12"
+  },
+  {
+    "subject": "NT_06_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_06_2014",
+    "predicate": "analisa",
+    "object": "Requerentes Anhanguera Educacional Participações S.A"
+  },
+  {
+    "subject": "NT_06_2014",
+    "predicate": "analisa",
+    "object": "Kroton Educacional S.A"
+  },
+  {
+    "subject": "NT_06_2014",
+    "predicate": "mercado_relevante",
+    "object": "ensino superior à distância"
+  },
+  {
+    "subject": "NT_06_2014",
+    "predicate": "mercado_relevante",
+    "object": "diminuição da concorrência potencial entre as"
+  },
+  {
+    "subject": "Brasília",
+    "predicate": "autor_de",
+    "object": "NT_06_2014"
+  },
+  {
+    "subject": "NT_06_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "processo",
+    "object": "08700.010266/2015-70"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "analisa",
+    "object": "Upward Pricing Test"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "analisa",
+    "object": "Gross Upward Pricing Pressure"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "mercado_relevante",
+    "object": "o Carbeto de Silício Cristal"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_07_2016"
+  },
+  {
+    "subject": "Cade executou an",
+    "predicate": "autor_de",
+    "object": "NT_07_2016"
+  },
+  {
+    "subject": "Cade\n\nDeve",
+    "predicate": "autor_de",
+    "object": "NT_07_2016"
+  },
+  {
+    "subject": "Cade\n\nA Tabela",
+    "predicate": "autor_de",
+    "object": "NT_07_2016"
+  },
+  {
+    "subject": "Cade\n\nNa Tabela",
+    "predicate": "autor_de",
+    "object": "NT_07_2016"
+  },
+  {
+    "subject": "Cade de",
+    "predicate": "autor_de",
+    "object": "NT_07_2016"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "tipo_operacao",
+    "object": "Fusão"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "processo",
+    "object": "08700.006185/2016-56"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "processo",
+    "object": "08700.006696/2016-78"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "processo",
+    "object": "08700.006190/2016-69"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "processo",
+    "object": "08700.005447/2013-12"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "processo",
+    "object": "08700.009198/2013-34"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "processo",
+    "object": "08012.000125/2012-54"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "ano",
+    "object": "2005"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "analisa",
+    "object": "Kroton Educacional S.A"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "analisa",
+    "object": "Participações S.A"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "ensino a distância por meio de análises"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "graduação presencial é municipal"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "graduação EAD"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "ensino a distância"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "telefonia móvel"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "ensino superior presencial e a distância"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "Ensino a Distância (EAD)"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "questão é"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "questão"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "Serviços de Ensino"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "educação privada"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "mercado_relevante",
+    "object": "educação no Brasil"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_07_2017"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.002346/2019-85"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.002349/2019-19"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.002350/2019-43"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.002351/2019-98"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.002495/2019-44"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.000266/2016-42"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.004001/2015-32"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.008540/2013-89"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.004151/2012-01"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.004150/2012-59"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.005705/2018-75"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.007190/2008-24"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.000957/2008-94"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.010094/2008-63"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.010095/2008-16"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.005539/2012-70"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.012652/2015-04"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.005704/2018-21"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.004030/2018-47"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.006185/2018-18"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.003459/2016-55"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.008853/2008-28"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.002609/2007-71"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.007443/2009-41"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.000436/2014-27"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.013152/2007-20"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.006553/2007-23"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.009419/2004-31"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.010786/2004-88"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.010790/2015-41"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08012.004423/2009-18"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "processo",
+    "object": "08700.009988/2014-09"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "ano",
+    "object": "2019"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Casa de Saúde São Bernardo S.A"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "São Bernardo Apart Hospital S.A"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Terapias e Diagnósticos Capixaba Ltda"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Acesso restrito ao CADE e às requerentes"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Acesso restrito ao CADE e à Athena"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Acesso restrito ao CADE e a São Bernardo"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Acesso restrito apenas ao CADE"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Athena ES"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "São Bernardo Saúde"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "São Bernardo Apart"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Centro Médico Capixaba"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Total Clínicas"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Athena Saúde Espírito Santo Holding S.A"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Total Clínicas Ltda"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "São Bernardo Emergência Ltda"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Ativa Serviços Empresariais Ltda"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "analisa",
+    "object": "Call Express Central de Atendimento Ltda"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "planos de saúde no ES"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "planos coletivos por adesão e planos coletivos empresariais"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "planos coletivos por adesão"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "planos coletivos em que as pessoas apenas possuem acesso à cobertura ambulatorial"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "planos coletivos empresariais"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "cerveja"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "tintas"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "maneira satisfatória"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "prol da possibilidade de contornar uma eventual não aprovação do ato de concentração por parte do CADE"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "contrabalancear os efeitos no caso concreto"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "forma mais ampla"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "planos de saúde individuais e coletivos não pode ser considerada elemento suficiente para conter um eventual exercício de poder de mercado"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "requerentes"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "empresas fusionadas"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "saúde como um todo declinou"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "estudo"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "saúde suplementar no Brasil"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "planos de saúde"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "Saúde Suplementar"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "ferro dos EUA"
+  },
+  {
+    "subject": "Elvino de Carvalho Mendonça no",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "discordou da possibilidade de retirada do",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "para agentes do mercado",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "a respeito",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "compreende que a técnica Elzinga",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "em relação à visão apresentada pelas requerentes",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "defende a aplicação do Guia",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "sustenta que as regras do Guia",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "solicitou",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "CADE e",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "CADE o seguinte",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "foi buscar a fundamentação ou a gênese deste tipo de regra",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "tentar deriv",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "possui",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "discorda da aplicação da regra de",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "entende que a regra do delta de",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "sugere que deve ser observada a an",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "posiciona",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "usou dados públicos",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "foram incluídos as vidas que SBS j",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "fica sem uma an",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "tenha feito tal solicitação no âmbito do Ofício",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "não encontrou an",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "não descarta esse argumento",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "discorda ACESSO RESTRITO ÀS REQUERENTES \n\nDe outro lado",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "buscou analisar quantos CPFs migraram do ano de",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "apresenta uma an",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "analisou a definição de mercado relevante no presente caso",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "CADE \n\nAssinado eletronicamente no DOCSEI",
+    "predicate": "autor_de",
+    "object": "NT_07"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "SSNIP"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "aplica_metodologia",
+    "object": "Upstream"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "analisa",
+    "object": "Bradesco"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "analisa",
+    "object": "HSBC Brasil"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "analisa",
+    "object": "HSBC Bank Brasil S.A"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "analisa",
+    "object": "HSBC Serviços e Participações Ltda"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "analisa",
+    "object": "Banco Bradesco S.A"
+  },
+  {
+    "subject": "analisar",
+    "predicate": "autor_de",
+    "object": "NT_10_2016"
+  },
+  {
+    "subject": "realiza três simulações",
+    "predicate": "autor_de",
+    "object": "NT_10_2016"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "aplica_metodologia",
+    "object": "CPPI"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08700.002346/2019-85"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08700.002349/2019-19"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08700.002350/2019-43"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08700.002351/2019-98"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08700.002495/2019-44"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08700.003459/2016-55"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08700.005705/2018-75"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08012.008853/2008-28"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08012.002609/2007-71"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "processo",
+    "object": "08012.007443/2009-41"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "Acesso restrito ao CADE e às requerentes"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "Acesso restrito ao CADE e à Athena"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "Acesso restrito ao CADE e a São Bernardo"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "Acesso restrito apenas ao CADE"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "Athena ES"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "São Bernardo Saúde"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "São Bernardo Apart"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "Athena Saúde Espírito Santo Holding S.A"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "analisa",
+    "object": "Casa de Saúde São Bernardo S.A"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "mercado_relevante",
+    "object": "planos de saúde médico-hospitalares"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "mercado_relevante",
+    "object": "planos de"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "mercado_relevante",
+    "object": "clusters"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "mercado_relevante",
+    "object": "operação"
+  },
+  {
+    "subject": "CADE\n\nAutos adicionais",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "apresentou Nota Técnica",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "no âmbito da Nota Técnica",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "em sua an",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "a  respeito  do\npresente  caso",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "referiu que entre",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "infringe disposi",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "seguiu os parâmetros es",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "um ferramental\naté mesmo cl",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "não se omi",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "CADE abaixo",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "não  encontrou  an",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "deu seguimento à an",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "ignora  que  a  alta  taxa  de  rota",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "fez  sua  an",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "possui",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "entende que a mesma não\nmodi",
+    "predicate": "autor_de",
+    "object": "NT_10"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "analisa",
+    "object": "Seara"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "mercado_relevante",
+    "object": "pratos prontos brasileiro em resposta"
+  },
+  {
+    "subject": "Brasília",
+    "predicate": "autor_de",
+    "object": "NT_12_2014"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_12_2015",
+    "predicate": "processo",
+    "object": "08700.010224/2014-58"
+  },
+  {
+    "subject": "NT_12_2015",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_12_2015",
+    "predicate": "analisa",
+    "object": "Univation"
+  },
+  {
+    "subject": "CADE buscar",
+    "predicate": "autor_de",
+    "object": "NT_12_2015"
+  },
+  {
+    "subject": "CADE acerca da operação em questão é que h",
+    "predicate": "autor_de",
+    "object": "NT_12_2015"
+  },
+  {
+    "subject": "NT_12_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_12_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Upstream"
+  },
+  {
+    "subject": "NT_12_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Downstream"
+  },
+  {
+    "subject": "NT_12_2015",
+    "predicate": "tipo_operacao",
+    "object": "Joint Venture"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "processo",
+    "object": "08700.009924/2013-19"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "ano",
+    "object": "2018"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "analisa",
+    "object": "Videolar S.A"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "analisa",
+    "object": "Petróleo Brasileiro S.A"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "analisa",
+    "object": "Petrobras e Innova S.A"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "analisa",
+    "object": "Innova S.A"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "mercado_relevante",
+    "object": "que se deu a operação"
+  },
+  {
+    "subject": "analisar",
+    "predicate": "autor_de",
+    "object": "NT_13"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_13",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "processo",
+    "object": "08700.005700/2021-48"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "processo",
+    "object": "08700.000149/2021-46"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "processo",
+    "object": "08700.003654/2021-42"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "processo",
+    "object": "08700.006858/2016-78"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "analisa",
+    "object": "SAS Shipping Agencies Services SÀRS"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "analisa",
+    "object": "Log- In Logística Intermodal S.A"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "analisa",
+    "object": "MSC Mediterranean Shipping Company Holding S.A"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "analisa",
+    "object": "Guia H"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "analisa",
+    "object": "Log-In Logística Intermodal S.A"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "mercado_relevante",
+    "object": "cabotagem nacional"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "mercado_relevante",
+    "object": "cabotagem"
+  },
+  {
+    "subject": "CADE\n\nVERSÃO PÚBLICA\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_14"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "aplica_metodologia",
+    "object": "Cadeia Produtiva"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "processo",
+    "object": "08700.010790/2015-41"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "analisa",
+    "object": "Bradesco"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "analisa",
+    "object": "HSBC Brasil"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "analisa",
+    "object": "HSBC Bank Brasil S.A"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "analisa",
+    "object": "HSBC Serviços e Participações Ltda"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "analisa",
+    "object": "Banco Bradesco S.A"
+  },
+  {
+    "subject": "CADE baseiam",
+    "predicate": "autor_de",
+    "object": "NT_15_2016"
+  },
+  {
+    "subject": "em an",
+    "predicate": "autor_de",
+    "object": "NT_15_2016"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "aplica_metodologia",
+    "object": "CPPI"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "processo",
+    "object": "08700.005936/2022-65"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "HNK BR Indústria de Bebidas Ltda"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "Ambev S.A"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "Ambev ou representada"
+  },
+  {
+    "subject": "Gustavo Augusto Freitas de Lima",
+    "predicate": "autor_de",
+    "object": "NT_15"
+  },
+  {
+    "subject": "fez um segundo pedido ao DEE",
+    "predicate": "autor_de",
+    "object": "NT_15"
+  },
+  {
+    "subject": "analisou v",
+    "predicate": "autor_de",
+    "object": "NT_15"
+  },
+  {
+    "subject": "fizesse an",
+    "predicate": "autor_de",
+    "object": "NT_15"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "processo",
+    "object": "08700.001128/2023-18"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "Vigor"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "Danone"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "Dairy Partners Americanas Brasil Ltda"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "Vigor Alimentos S.A"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "Danone Ltda"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "analisa",
+    "object": "Dairy Partners Americas Brasil Ltda"
+  },
+  {
+    "subject": "CADE\n\nVERSÃO PÚBLICA\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_15"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "ano",
+    "object": "2004"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "analisa",
+    "object": "Nestlé Brasil Ltda"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "chocolates e avaliação da"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "chocolates se alterou significantemente nos"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "chocolates passou por"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "chocolates"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "coberturas de chocolate"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "chocolates sob todas as formas"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "grandes indústrias envolvidas no ato de concentração"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "chocolate de alta qualidade"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "demanda muito suscetível às variações"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "boutiques de chocolate"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "mercado_relevante",
+    "object": "chocolates premium a um ritmo superior ao da expansão do"
+  },
+  {
+    "subject": "definiu  os  seguintes  mercados  relevantes",
+    "predicate": "autor_de",
+    "object": "NT_16_2016"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_16",
+    "predicate": "processo",
+    "object": "08700.009924/2013-19"
+  },
+  {
+    "subject": "NT_16",
+    "predicate": "analisa",
+    "object": "Videolar S.A"
+  },
+  {
+    "subject": "NT_16",
+    "predicate": "analisa",
+    "object": "Petróleo Brasileiro S.A"
+  },
+  {
+    "subject": "NT_16",
+    "predicate": "analisa",
+    "object": "Petrobras e Innova S.A"
+  },
+  {
+    "subject": "do Conselheiro Sérgio Costa Ravagnani",
+    "predicate": "autor_de",
+    "object": "NT_16"
+  },
+  {
+    "subject": "muito bem esclareceu em seu voto",
+    "predicate": "autor_de",
+    "object": "NT_16"
+  },
+  {
+    "subject": "CADE e reforçam os resultados previamente apresentados",
+    "predicate": "autor_de",
+    "object": "NT_16"
+  },
+  {
+    "subject": "CADE e reforçando os resultados previamente apresentados",
+    "predicate": "autor_de",
+    "object": "NT_16"
+  },
+  {
+    "subject": "como uma vari",
+    "predicate": "autor_de",
+    "object": "NT_16"
+  },
+  {
+    "subject": "por usar a série de preço do monômero de es",
+    "predicate": "autor_de",
+    "object": "NT_16"
+  },
+  {
+    "subject": "NT_16",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_16",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_17_2014",
+    "predicate": "processo",
+    "object": "08700.009924/2013-19"
+  },
+  {
+    "subject": "NT_17_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "Brasília",
+    "predicate": "autor_de",
+    "object": "NT_17_2014"
+  },
+  {
+    "subject": "sobre estes pontos levantados",
+    "predicate": "autor_de",
+    "object": "NT_17_2014"
+  },
+  {
+    "subject": "NT_17_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "processo",
+    "object": "08700.009465/2014-54"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "analisa",
+    "object": "DG Comp"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "analisa",
+    "object": "Monts Holdings S.A"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "analisa",
+    "object": "Terminal de Cargas de Sarzedo Ltda"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "analisa",
+    "object": "Terminal de Cargas de Paraopeba Ltda"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "analisa",
+    "object": "Mineração Usiminas S.A"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "mercado_relevante",
+    "object": "um dos elos da cadeia"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "mercado_relevante",
+    "object": "terminais de embarque de minério na região de Serra Azul deve ser alta"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "mercado_relevante",
+    "object": "terminais intermodais não privativos da Região de Serra Azul"
+  },
+  {
+    "subject": "Conselheiro M",
+    "predicate": "autor_de",
+    "object": "NT_18_2015"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Cadeia Produtiva"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "processo",
+    "object": "08700.000166/2018-88"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "processo",
+    "object": "08700.002165/2017-97"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "processo",
+    "object": "08700.006444/2016-49"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "analisa",
+    "object": "Segurança e Transporte de Valores Ltda"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "analisa",
+    "object": "Rodoban Transportes Terrestres e Aéreos Ltda"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "analisa",
+    "object": "Rodoban Segurança e Transporte de Valores Ltda"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "analisa",
+    "object": "Rodoban Serviços e Sistemas de Segurança Ltda"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "mercado_relevante",
+    "object": "avaliação e na avaliação de se essas características permitiriam uma maior coordenação em virtude da concretização do AC aqui avaliado"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "mercado_relevante",
+    "object": "empresas no período analisado"
+  },
+  {
+    "subject": "utilizando dados da RAIS",
+    "predicate": "autor_de",
+    "object": "NT_18"
+  },
+  {
+    "subject": "utilizando dados de ofícios",
+    "predicate": "autor_de",
+    "object": "NT_18"
+  },
+  {
+    "subject": "utilizando dados de ofícios \n\nDas Figuras",
+    "predicate": "autor_de",
+    "object": "NT_18"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "processo",
+    "object": "08700.009988/2014-09"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "processo",
+    "object": "08012.010195/2004-19"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "processo",
+    "object": "08012.004423/2009-18"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "processo",
+    "object": "08012.003189/2009-10"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "analisa",
+    "object": "Tigres S/A"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "analisa",
+    "object": "Tubos e Conexões e Condor Pincéis Ltda"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "analisa",
+    "object": "Ato de Concentração envolvendo as empresas Tigre S/A"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "broxas"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "produtos homogêneos"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "bens diferenciados do que mercado de bens homogêneos"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "pincéis pode ser lucrativo ainda que eventualmente existam importações neste mercado ou que existam agentes que se utilizem das importações como insumo de seus serviços ou de seus produtos"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "estudo"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "agentes já estabelecidos"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "rolos"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "broxas é maior qu"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "pincéis"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "mercado_relevante",
+    "object": "pincéis artísticos"
+  },
+  {
+    "subject": "ou o CADE",
+    "predicate": "autor_de",
+    "object": "NT_19_2015"
+  },
+  {
+    "subject": "realizou a estimação da elasticidade de fato",
+    "predicate": "autor_de",
+    "object": "NT_19_2015"
+  },
+  {
+    "subject": "a realizar um segundo modelo",
+    "predicate": "autor_de",
+    "object": "NT_19_2015"
+  },
+  {
+    "subject": "não conseguiu obter estimativas razo",
+    "predicate": "autor_de",
+    "object": "NT_19_2015"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "SSNIP"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "analisa",
+    "object": "Mataboi Alimentos Ltda"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "analisa",
+    "object": "Fratelli Dorazio Investimentos S.A"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "mercado_relevante",
+    "object": "refrigerantes"
+  },
+  {
+    "subject": "Presidente  do  Frigorífico Mataboi",
+    "predicate": "autor_de",
+    "object": "NT_19_2017"
+  },
+  {
+    "subject": "Executivo da JBS até janeiro de",
+    "predicate": "autor_de",
+    "object": "NT_19_2017"
+  },
+  {
+    "subject": "CADE\n\nAutos n",
+    "predicate": "autor_de",
+    "object": "NT_19_2017"
+  },
+  {
+    "subject": "ser\nnecess",
+    "predicate": "autor_de",
+    "object": "NT_19_2017"
+  },
+  {
+    "subject": "o direito de aperfeiçoar sua\nan",
+    "predicate": "autor_de",
+    "object": "NT_19_2017"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.003662/2018-93"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08012.002734/2005-19"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.002165/2017-97"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.006444/2016-49"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "ano",
+    "object": "2013"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Prosegur"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Prosegur Brasil S.A"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Segurança e Transfederal Transporte de Valores Ltda"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Transfederal Transporte de Valores Ltda"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Vigilância e Transporte de Valores Ltda"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Remmo Participações S.A"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "transporte e custódia de valores"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "os estados em que há sobreposição entre"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "a empresa fusionada de modo que posse adotar estratégias como elevação de"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "empresas tem longa"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "que empresas locais podem concorrer"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "custódia e transporte de"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "termos do faturamento total nos"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "transporte e"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "utilizando dados da RAIS",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "utilizando dados de ofícios",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "utilizando dados de ofícios e baseado na Figura",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "CPPI"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.006345/2018-29"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.006340/2018-04"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.006349/2018-15"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.006350/2018-31"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.006816/2018-07"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.000018/2015-11"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08012.005328/2009-31"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.009363/2015-10"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08012.004089/2009-01"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.004410/2014-58"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.003240/2009-27"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.003900/2009-70"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08012.006209/2010-30"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.006078/2014-66"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.009515/2014-01"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.008213/2015-99"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.001861/2016-03"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.001845/2017-93"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.003613/2017-70"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.001844/2017-49"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.003614/2017-14"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.001860/2016-51"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.003638/2018-54"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.005211/2018-91"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.005212/2018-35"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.005251/2018-32"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "processo",
+    "object": "08700.091390/2017-14"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Itaú Unibanco S.A"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Ticket Serviços S.A"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Acesso exclusivo CADE"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "analisa",
+    "object": "Ticket"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "captação"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "captura de crédito e débito"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "débito e crédito de forma indireta"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "vários lados comuns funcionam"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "vouchers e de captura de transações"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "captura por tipo de voucher"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "captura de crédito"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "captura"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "crédito e débito vis-à-vis o uso de sua máquina original"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "origem e destino na metodologia de aritmética vertical"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "vouchers"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "captura de vouchers"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "credenciamento e captura de transações"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "captura de vouchers conjuntamente com o mercado de captura de crédito e débito"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "adquirência elaborados pela Superintendência-Geral e utilizados no exemplo anterior"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "voucher"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "captura de transações com cartões de débito e crédito"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "mercado_relevante",
+    "object": "cartões de pagamento revela que práticas de discriminação anticompetitiva são recorrentes nesse setor"
+  },
+  {
+    "subject": "referiu que",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "e referida na introdução desta nota",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "não pressupõe coordenação após o",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "preocupa",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "apresentar sua visão a respeito do presente caso",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "em relação ao presente caso",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Todavia",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Assim como pode ser observado na figura acima",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "A única bandeira que trouxe",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Por fim",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Como é possível inferir das figuras acima",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Desse montante",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Apesar de não representadas acima",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "realizar uma an",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "A respeito dos dados obtidos",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Separando as receitas por tipo de voucher",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Em Vale",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "E veja que em vale transporte a situação j",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Em que pese as receitas de Vale",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Maiores considerações exploratórias",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Frise",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Assim",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "referiu ser necess",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Desse modo",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Tomando como referência o esquema acima",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Assinado eletronicamente no DOC SEI",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "Códigos",
+    "predicate": "autor_de",
+    "object": "NT_20"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Upstream"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "aplica_metodologia",
+    "object": "Downstream"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "processo",
+    "object": "08700.000344/2014-47"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "analisa",
+    "object": "Fosbrasil"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "analisa",
+    "object": "Operação"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "analisa",
+    "object": "Bromisa Industrial e Comercial Ltda"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "analisa",
+    "object": "ICL Brasil Ltda"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "analisa",
+    "object": "Fosbrasil S.A"
+  },
+  {
+    "subject": "Versão PÚBLICA\n\nAto de Concentração n",
+    "predicate": "autor_de",
+    "object": "NT_21_2014"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.006512/2021-37"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.002715/2019-30"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.006444/2016-49"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.012337/2015-79"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.004358/2018-63"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.009479/2013-97"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.003683/2016-47"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.008064/2017-20"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.002354/2018-41"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.005825/2018-72"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.003321/2019-07"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.007446/2018-17"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.001008/2019-26"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.003873/2019-15"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.005069/2019-62"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.005880/2019-43"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.004067/2021-71"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.005299/2021-46"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.005843/2021-50"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08012.008685/2007-90"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08012.014090/2007-73"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08012.000777/2011-16"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08700.000419/2015-71"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08012.004482/2011-19"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "processo",
+    "object": "08012.003535/2001-20"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "analisa",
+    "object": "Ream Participações S.A"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "analisa",
+    "object": "Distribuidora de Petróleo S.A"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "distribuição de GLP por meio da Liquigás"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "outras distribuidoras"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "diesel B"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "distribuição de diesel B na Região Norte e não seria capaz de especificar óleo diesel de acordo com determinações da ANP"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "distribuição de diesel B decorrente da operação e ser improvável que tal sobreposição venha a ocorrer em curto e médio prazo"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "terminais portuários para"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "terminais portuários"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "refino no contexto da análise dos desinvestimentos no parque de refino da Petrobras"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "refino e sua possível segmentação"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "refino de petróleo e seus derivados foi definido predominantemente na dimensão geográfica como regional"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "abastecimento de veículos automotores"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "refino"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "distribuição do Pará se comprovou bastante reduzida"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "terminais envolvido na operação"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "distribuição"
+  },
+  {
+    "subject": "ao longo da presente nota técnica deixa claro que an",
+    "predicate": "autor_de",
+    "object": "NT_22"
+  },
+  {
+    "subject": "esclarece que an",
+    "predicate": "autor_de",
+    "object": "NT_22"
+  },
+  {
+    "subject": "a partir de dados da ANP",
+    "predicate": "autor_de",
+    "object": "NT_22"
+  },
+  {
+    "subject": "com base nos dados da ANP",
+    "predicate": "autor_de",
+    "object": "NT_22"
+  },
+  {
+    "subject": "analisa esse cen",
+    "predicate": "autor_de",
+    "object": "NT_22"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "aplica_metodologia",
+    "object": "Cadeia Produtiva"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "aplica_metodologia",
+    "object": "Downstream"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "processo",
+    "object": "08700.004185/2014-50"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "ano",
+    "object": "2012"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "analisa",
+    "object": "Continental Aktiengesellschaft"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "concorrência privada"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "licitação ser tão"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "concorrentes"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "leilões com o mercado regular"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "empresas com restrição de"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "molas pneumáticas"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "correias de transmissão de potência para produtos automotivos"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "CVB Aço"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "CVB Têxtil"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "que aparenta existir alguma rivalidade"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "mercado_relevante",
+    "object": "alto"
+  },
+  {
+    "subject": "Versão PÚBLICA\n\nAto de Concentração n",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "procedimento formal de aquisição dos produtos",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "Tabela",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "CADE com base no estudo da OCDE",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "consumidores",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "demandam software a partir de editais privados",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "impactar  bastante  a  forma  de  avaliação  do  cen",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "Figura",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "CADE\n\nTabela",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "CADE\n\nProb",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "Veyance  disse  ter  participado",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "CADE\n\nVariação",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "Ou  seja",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "parece baixar o lance do Veyance",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "analisado",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "CADE\n\nEm que pese\nbaixa intersecção",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "CADE\n\nBrasília",
+    "predicate": "autor_de",
+    "object": "NT_23_2014"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "processo",
+    "object": "08700.000436/2014-27"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "analisa",
+    "object": "Difference-in-Differences"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "analisa",
+    "object": "Requerentes"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "analisa",
+    "object": "Pública"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "analisa",
+    "object": "Solvay S.A"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "analisa",
+    "object": "Braskem S.A"
+  },
+  {
+    "subject": "Nota Técnica n",
+    "predicate": "autor_de",
+    "object": "NT_24_2014"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "processo",
+    "object": "08700.002855/2022-11"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "processo",
+    "object": "08700.002864/2022-02"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "processo",
+    "object": "08700.003554/2022-05"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "processo",
+    "object": "08700.002865/2022-49"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "processo",
+    "object": "08700.002866/2022-93"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "processo",
+    "object": "08700.008857/2014-04"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "processo",
+    "object": "08700.001097/2017-49"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "analisa",
+    "object": "A presente operação consiste na parceria comercial entre GDM Genética do Brasil S.A"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "analisa",
+    "object": "Autos principais públicos"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "analisa",
+    "object": "GDM Genética do Brasil S.A"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "mercado_relevante",
+    "object": "sementes de soja no Brasil"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "mercado_relevante",
+    "object": "Mercado de Soja"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "mercado_relevante",
+    "object": "comercialização dos demais mercados"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "mercado_relevante",
+    "object": "requerentes por município e microrregião"
+  },
+  {
+    "subject": "apresentar",
+    "predicate": "autor_de",
+    "object": "NT_24"
+  },
+  {
+    "subject": "CADE \n\nAssinado eletronicamente DOCSEI",
+    "predicate": "autor_de",
+    "object": "NT_24"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "aplica_metodologia",
+    "object": "SSNIP"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "aplica_metodologia",
+    "object": "Cadeia Produtiva"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "aplica_metodologia",
+    "object": "Downstream"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "processo",
+    "object": "08700.006444/2016-49"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "analisa",
+    "object": "Ipiranga Produtos de Petróleo S.A"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "analisa",
+    "object": "Alesat Combustíveis S.A"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "analisa",
+    "object": "Ale Combustíveis S.A"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "analisa",
+    "object": "Alecred Promotora de Negócios de Crédito Ltda"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "analisa",
+    "object": "Alesat Comercial Importações e Exportações Ltda"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "mercado_relevante",
+    "object": "produtos diferenciados"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "mercado_relevante",
+    "object": "distribuição"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "mercado_relevante",
+    "object": "questão já é bastante concentrado"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "mercado_relevante",
+    "object": "Derivados de Petróleo"
+  },
+  {
+    "subject": "com base em dados do",
+    "predicate": "autor_de",
+    "object": "NT_25_2017"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "CPPI"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "tipo_operacao",
+    "object": "Fusão"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "processo",
+    "object": "08700.000149/2021-46"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "ano",
+    "object": "2019"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "analisa",
+    "object": "Unidas"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "analisa",
+    "object": "Localiza"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "Rent a Car (RAC)"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "questão"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "veículos novos não parece coincidir com aquele que a teoria"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "Rent a Car (RAC)"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "locadoras na franja e o número de concorrentes na franja"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "locadoras presentes na franja e o"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "franja"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "carros usados é amplo e pulverizado"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "mercado_relevante",
+    "object": "veículos novos não parece coincidir com uma estrutura de mercado que resulte"
+  },
+  {
+    "subject": "do Parecer Econômico",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "ainda a",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "CADE\n\nProcesso",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "CADE na presente an",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "CADE avaliou as demonstrações",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "CADE compreendem custos que variam entre",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "CADE avaliou o custo anual e o percentual das e",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "CADE  compreendem  custos  que  variam  entre",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "CADE\ncompreendem custos que variam entre",
+    "predicate": "autor_de",
+    "object": "NT_26"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_28_2017",
+    "predicate": "processo",
+    "object": "08700.001390/2017-14"
+  },
+  {
+    "subject": "NT_28_2017",
+    "predicate": "ano",
+    "object": "2017"
+  },
+  {
+    "subject": "NT_28_2017",
+    "predicate": "analisa",
+    "object": "ABRATEL"
+  },
+  {
+    "subject": "NT_28_2017",
+    "predicate": "mercado_relevante",
+    "object": "análise"
+  },
+  {
+    "subject": "também ser",
+    "predicate": "autor_de",
+    "object": "NT_28_2017"
+  },
+  {
+    "subject": "concluiu que h",
+    "predicate": "autor_de",
+    "object": "NT_28_2017"
+  },
+  {
+    "subject": "a concluir desta forma encontram",
+    "predicate": "autor_de",
+    "object": "NT_28_2017"
+  },
+  {
+    "subject": "NT_28_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_28_2017",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_28_2017",
+    "predicate": "tipo_operacao",
+    "object": "Associação"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08700.002155/2017-51"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08700.002191/2017-15"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.004423/2009-18"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.006019/2002-11"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08700.003067/2009-67"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.006043/2008-37"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.002568/2005-51"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08000.009354/1997-82"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.011345/2006-65"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.000637/2009-45"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.008355/2008-85"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.005777/2008-07"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.008939/2008-51"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.005882/2008-38"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "processo",
+    "object": "08012.001271/2001-44"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "ano",
+    "object": "2017"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "analisa",
+    "object": "Companhia Ultragaz S.A"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "analisa",
+    "object": "Distribuidora S.A"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "analisa",
+    "object": "Petrobras S.A"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "geral de envasados e de granel"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "distribuição de GLP na região do Triângulo Mineiro"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "distribuição de GLP no Estado do Pará"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "GLP envasado possui praticamente todas as características que tornam um mercado propício a condutas paralelas"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "GLP Envasado"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "GLP Granel"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "granel quanto para o de envasado"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "estudo"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "suco de laranja"
+  },
+  {
+    "subject": "buscou debater tanto a mensuração das eficiências",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "realizou diversos cen",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "com base nos documentos referidos em anexo",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "com base nos dados fornecidos pelos agentes de mercado",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "avaliar o nível de suficiência das eficiências alegadas",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "deva aceitar ou rejeitar tais eficiências",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "acordo com o que se verifica na tabela acima",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "com base nos dados dos autos",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "a partir de dados da ANP e das empresas",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "a partir de dados da ANP e das empresas \n\nEm suma",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "segundo dados do Sindig",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "a partir de dados da ANP",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "a partir de dados das empresas",
+    "predicate": "autor_de",
+    "object": "NT_29_2017"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "CPPI"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "SSNIP"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "processo",
+    "object": "08700.000472/2020-39"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "ano",
+    "object": "2019"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Americana S.A"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Gerdau Aços Longos S.A"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Siderúrgica Latino-Americana S.A"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Companhia Siderúrgica do Espírito Santo S.A"
+  },
+  {
+    "subject": "CADE\n\nProcesso n",
+    "predicate": "autor_de",
+    "object": "NT_29"
+  },
+  {
+    "subject": "Ficarão mais claras as mo",
+    "predicate": "autor_de",
+    "object": "NT_29"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "processo",
+    "object": "08700.003244/2019-87"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "processo",
+    "object": "08700.000166/2018-88"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "processo",
+    "object": "08700.003662/2018-93"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "processo",
+    "object": "08700.000216/2019-16"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "ano",
+    "object": "2018"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Prosegur Brasil Transportadora de Valores e Segurança S.A"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Transvip - Transporte de Valores e Vigilância Patrimonial Ltda"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Esta operação refere-se\nà proposta de aquisição pela Prosegur Brasil Transportadora de Valores e Segurança S/A"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Prosegur"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Transvip"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Brasil Transportadora de Valores e Segurança S.A"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Valores e Vigilância Patrimonial Ltda"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Brasil Transportadora de Valores e Segurança S/A"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "analisa",
+    "object": "Transporte de Valores e Vigilância Patrimonial Ltda"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "mercado_relevante",
+    "object": "transporte de valores"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "mercado_relevante",
+    "object": "questão produziu algum efeito"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "mercado_relevante",
+    "object": "transporte e custódia de valores - estado de"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "mercado_relevante",
+    "object": "transporte e custódia de valores - estado do"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "mercado_relevante",
+    "object": "transporte de valores no escopo da Nota"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "mercado_relevante",
+    "object": "São Paulo (Geográfico)"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "mercado_relevante",
+    "object": "cada uma das empresas"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "mercado_relevante",
+    "object": "nível nacional e também que se leve em consideração essas"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_29"
+  },
+  {
+    "subject": "A Tabela",
+    "predicate": "autor_de",
+    "object": "NT_29"
+  },
+  {
+    "subject": "A segunda alegação diz respeito a uma possível pr",
+    "predicate": "autor_de",
+    "object": "NT_29"
+  },
+  {
+    "subject": "CADE  da  operação  Brink",
+    "predicate": "autor_de",
+    "object": "NT_29"
+  },
+  {
+    "subject": "CADE\n\nAssinado eletronicamente",
+    "predicate": "autor_de",
+    "object": "NT_29"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "processo",
+    "object": "08700.000869/2015-63"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "processo",
+    "object": "08012.009198/2011-21"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "analisa",
+    "object": "Acesso restrito ao SBDC e CSN"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "analisa",
+    "object": "USIMINAS"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "analisa",
+    "object": "Usiminas"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "este trimestre"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "aço e também da própria"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "siderurgia da"
+  },
+  {
+    "subject": "CADE\n\nProcesso n",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "Passados quase dois anos de deterioração de resultados",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "Ampliando o gr",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "Em termos de projeções",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "processo",
+    "object": "08700.002165/2017-97"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "processo",
+    "object": "08700.002155/2017-51"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "analisa",
+    "object": "Votorantim Siderurgia S.A"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "analisa",
+    "object": "ArcelorMittal & Votorantim Siderurgia S.A"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "barras"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "todas as empresas de um dado mercado"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "firma i"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "barras MBQ que não apresenta nexo de causalidade"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "perfis leves ainda tem potencial de gerar preocupações concorrenciais"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "estes produtos"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "perfis médios"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "telas eletrosoldadas é a da Simec"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "vergalhão o remédio Silat seria o melhor"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "mercado_relevante",
+    "object": "barras MBQ e perfis médios podem ter seus problemas concorrenciais dirimidos com a adoção dos remédios"
+  },
+  {
+    "subject": "CADE e no Parecer",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "CADE e o Parecer",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "não atribuiu pesos aos cen",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "não atribuiu pesos a esses cen",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "CADE referente ao AC n",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "deva aceitar ou rejeitar tais eficiências",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "para a fusão sem a adoção de remédios são os que seguem",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "não atribuiu peso aos cen",
+    "predicate": "autor_de",
+    "object": "NT_2"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "aplica_metodologia",
+    "object": "Cadeia Produtiva"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "ano",
+    "object": "2015"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa",
+    "object": "Brasil"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "analisa",
+    "object": "Hypermarcas S.A"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "preservativos masculinos"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "lubrificantes íntimos"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "preservativos e"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "lubrificantes íntimos tais eficiências"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "Preservativos"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "que há pouca diferenciação entre os produtos"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "lubrificantes íntimos que as demais marcas analisadas"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "lubrificantes íntimos para os cenários analisados"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "lubrificantes íntimos com Vagidrat"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "preservativos e de lubrificantes"
+  },
+  {
+    "subject": "CADE\n\nProcesso n",
+    "predicate": "autor_de",
+    "object": "NT_30_2016"
+  },
+  {
+    "subject": "Cade\n\n  Tabela",
+    "predicate": "autor_de",
+    "object": "NT_30_2016"
+  },
+  {
+    "subject": "Cade\n\nNo gr",
+    "predicate": "autor_de",
+    "object": "NT_30_2016"
+  },
+  {
+    "subject": "Cade\n\nTabela",
+    "predicate": "autor_de",
+    "object": "NT_30_2016"
+  },
+  {
+    "subject": "Cade\n\nComo se observa",
+    "predicate": "autor_de",
+    "object": "NT_30_2016"
+  },
+  {
+    "subject": "Cade\n\nEm absolutamente todos os cen",
+    "predicate": "autor_de",
+    "object": "NT_30_2016"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "processo",
+    "object": "08700.002165/2017-97"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "analisa",
+    "object": "Votorantim Siderurgia S.A"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "analisa",
+    "object": "ArcelorMittal Brasil S.A"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "analisa",
+    "object": "Do grupo Votorantim S.A"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "sucata"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "perfis leves"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "vergalhões"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "que há pouca diferenciação entre os produtos"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "vergalhão tem claros problemas associados a aumento de preço relacionados à operação entre ArcelorMittal e Votorantim"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "requerentes são tão consideráveis que ainda se alcançam significativas pressões por aumento de preços"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "fio-máquina comum também evidenciam problemas associados às pressões unilaterais de preços"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "telas apresenta claros problemas associados às pressões por aumentos de preço de forma unilateral"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "treliças não levanta tantas preocupações em termos de pressões de aumento de preços devido à operação"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "características que favorecem a coordenação"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "cada firma restante"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "que ela possui uma participação mais elevada"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "que ele tenha incentivos suficientes para manter o conluio nesse mercado"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "aço no Brasil indicam que a demanda do aço é inelástica"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "questão"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "sucata ferrosa"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "sucata com possíveis impactos também para os consumidores de aço"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "sucata se caracteriza por um oligopsônio no qual operam um número reduzido de consumidores e uma grande quantidade de pequenos fornecedores"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "barras"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "aços longos no Brasil passou por recentes mudanças que modificaram a estrutura dos mercados"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "aços longos"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "telecomunicações"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "aços longos que favorecem a coordenação"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "mercado_relevante",
+    "object": "aços longos comuns"
+  },
+  {
+    "subject": "fez dois exercícios",
+    "predicate": "autor_de",
+    "object": "NT_30_2017"
+  },
+  {
+    "subject": "focou a an",
+    "predicate": "autor_de",
+    "object": "NT_30_2017"
+  },
+  {
+    "subject": "deva aceitar ou rejeitar tais eficiências",
+    "predicate": "autor_de",
+    "object": "NT_30_2017"
+  },
+  {
+    "subject": "com dados da RAIS",
+    "predicate": "autor_de",
+    "object": "NT_30_2017"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Cadeia Produtiva"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.001134/2020-14"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.006444/2016-49"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.004117/1999-67"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.001697/2002-89"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.008853/2008-28"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.002467/2008-22"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.003978/2012-90"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.000436/2014-27"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.009988/2014-09"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.006185/2016-56"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.005226/2000-88"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.003299/2006-21"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.011047/2004-11"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.001166/2008-81"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.002018/2010-07"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.012185/2011-39"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.011323/2010-81"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "53500.021373/2010-00"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.009198/2011-21"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.011603/2011-71"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.013152/2007-20"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.009497/2010-84"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.005526/2010-39"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.010192/2004-77"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.010195/2004-19"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.010266/2015-70"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.004860/2016-11"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.010790/2015-41"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "ano",
+    "object": "2019"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Seara Alimentos Ltda"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Bunge Alimentos S.A"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Sera Alimentos Ltda"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Bunge Alimentos"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "BRF S.A"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "maioneses"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "margarinas"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "uma empresa"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "tela"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "margarinas no Brasil ao"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "margarinas antes da operação"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "margarinas antes e depois da"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "empresa que trair o acordo colusivo"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "empresas que permanecerem no mercado"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "relação ao faturamento e em relação ao volume negociado por cada"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "questão"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "óleos vegetais"
+  },
+  {
+    "subject": "CADE\n\nProcesso n",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "buscando atender ao Despacho SG N",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.003959/2022-35"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.003963/2022-01"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.004690/2022-12"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.005948/2022-90"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.005955/2022-91"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.005961/2022-49"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.006063/2022-16"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.006073/2022-43"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.006074/2022-98"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.006075/2022-32"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.006076/2022-87"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.004426/2020-17"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.006345/2018-29"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08012.009606/2011-44"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "ano",
+    "object": "2021"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Or São Luiz S.A"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Sul América S.A"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "estabelecimentos de saúde estando"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "varejo"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "origem e destino na metodologia de aritmética vertical"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "destino da"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "destino do fechamento"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "decorrência dos impactos do fechamento"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "destino do foreclosure"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "estabelecimentos de saúde"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "origem da conduta é um dos pressupostos"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "origem da conduta é pressuposto para haver capacidade de fechamento"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "saúde suplementar"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "origem da conduta é um dos pressupostos relacionados à"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "saúde no"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "seguros e as atividades de corretagem de seguros do"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "serviços de"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "estabelecimentos de saúde no seu processo produtivo"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "cuidados à saúde por meio de"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "planos de assistência médico-hospitalar nas modalidades coletivo e"
+  },
+  {
+    "subject": "CADE\nVERSÃO PÚBLICA\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "Todavia",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "Imagine",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Upstream"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "aplica_metodologia",
+    "object": "Downstream"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.004437/2020-99"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.004438/2020-33"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.004439/2020-88"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.001434/2021-84"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "processo",
+    "object": "08700.002085/2021-18"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Autos principais públicos"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Bus Serviços"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Acordo em Controle de Concentração"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Bus Serviços de Agendamento S.A"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Guichê Virtual Serviços de Internet Ltda"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "analisa",
+    "object": "Operadora e da Bus Serviços de Agendamento S.A"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "mercado_relevante",
+    "object": "Viações Rodoviárias"
+  },
+  {
+    "subject": "Sérgio Costa Ravagnani",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "que fosse elaborado parecer para aprofundar a an",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "CADE fez uma avaliação de tais integrações",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "CADE apresenta algumas crí",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "procedesse à avaliação da Hipótese",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "CADE procedeu tal avaliação",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "CADE  analisou",
+    "predicate": "autor_de",
+    "object": "NT_30"
+  },
+  {
+    "subject": "NT_32_2017",
+    "predicate": "processo",
+    "object": "08700.000524/2015-18"
+  },
+  {
+    "subject": "NT_32_2017",
+    "predicate": "processo",
+    "object": "08012.002018/2010-07"
+  },
+  {
+    "subject": "NT_32_2017",
+    "predicate": "processo",
+    "object": "08012.001875/2010-81"
+  },
+  {
+    "subject": "NT_32_2017",
+    "predicate": "processo",
+    "object": "08012.001879/2010-60"
+  },
+  {
+    "subject": "NT_32_2017",
+    "predicate": "processo",
+    "object": "08012.002259/2012-18"
+  },
+  {
+    "subject": "NT_32_2017",
+    "predicate": "processo",
+    "object": "08700.008231/2016-51"
+  },
+  {
+    "subject": "NT_32_2017",
+    "predicate": "ano",
+    "object": "2017"
+  },
+  {
+    "subject": "ou do Superintendente",
+    "predicate": "autor_de",
+    "object": "NT_32_2017"
+  },
+  {
+    "subject": "foi incumbido",
+    "predicate": "autor_de",
+    "object": "NT_32_2017"
+  },
+  {
+    "subject": "criou o Processo n",
+    "predicate": "autor_de",
+    "object": "NT_32_2017"
+  },
+  {
+    "subject": "junto às Faculdades de Engenharia sobre pesquisas",
+    "predicate": "autor_de",
+    "object": "NT_32_2017"
+  },
+  {
+    "subject": "NT_32_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "processo",
+    "object": "08700.004046/2022-36"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "processo",
+    "object": "08700.004088/2022-77"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "processo",
+    "object": "08700.005738/2022-00"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "ano",
+    "object": "2021"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "analisa",
+    "object": "HAPVIDA Assistência Médica S.A"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "analisa",
+    "object": "Esmale Assistência Internacional de Saúde Ltda"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "analisa",
+    "object": "Hospital João Paulo II Ltda"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "analisa",
+    "object": "Mais Saúde Clínica Ltda"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "mercado_relevante",
+    "object": "principais operadoras nos mercados relevantes da ANS"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "mercado_relevante",
+    "object": "operadoras de planos de saúde"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "mercado_relevante",
+    "object": "principais operadoras nos mercados relevantes da ANS afetados pela"
+  },
+  {
+    "subject": "apresenta  alguns\nproblemas que aquela definição tr",
+    "predicate": "autor_de",
+    "object": "NT_32"
+  },
+  {
+    "subject": "apresenta a seguinte figura",
+    "predicate": "autor_de",
+    "object": "NT_32"
+  },
+  {
+    "subject": "CADE\n\nVERSÃO DE ACESSO PÚBLICO\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_32"
+  },
+  {
+    "subject": "a\nrespeito da definição geogr",
+    "predicate": "autor_de",
+    "object": "NT_32"
+  },
+  {
+    "subject": "CADE e",
+    "predicate": "autor_de",
+    "object": "NT_32"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "aplica_metodologia",
+    "object": "GUPPI"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_33_2017",
+    "predicate": "processo",
+    "object": "08700.001097/2017-49"
+  },
+  {
+    "subject": "NT_33_2017",
+    "predicate": "ano",
+    "object": "2017"
+  },
+  {
+    "subject": "NT_33_2017",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_33_2017",
+    "predicate": "tipo_operacao",
+    "object": "Fusão"
+  },
+  {
+    "subject": "NT_33_2017",
+    "predicate": "tipo_operacao",
+    "object": "Cisão"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "processo",
+    "object": "08700.000726/2021-08"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "ano",
+    "object": "2014"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "analisa",
+    "object": "Claro S.A"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "analisa",
+    "object": "Telefônica Brasil S.A"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "analisa",
+    "object": "TIM S.A"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "analisa",
+    "object": "Requerentes Claro S.A"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "analisa",
+    "object": "Oi S.A"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "mercado_relevante",
+    "object": "telefonia móvel"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "mercado_relevante",
+    "object": "telecomunicações e apresenta os achados da literatura internacional"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "mercado_relevante",
+    "object": "telecomunicações e na literatura econômica sobre ela"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "mercado_relevante",
+    "object": "telecomunicações"
+  },
+  {
+    "subject": "podem ser divididos em dois grupos",
+    "predicate": "autor_de",
+    "object": "NT_34"
+  },
+  {
+    "subject": "realizou a comparação entre os resultados ob",
+    "predicate": "autor_de",
+    "object": "NT_34"
+  },
+  {
+    "subject": "A figura",
+    "predicate": "autor_de",
+    "object": "NT_34"
+  },
+  {
+    "subject": "A relação dos achados por",
+    "predicate": "autor_de",
+    "object": "NT_34"
+  },
+  {
+    "subject": "https",
+    "predicate": "autor_de",
+    "object": "NT_34"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Unilaterais"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "Efeitos Coordenados"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08700.004211/2016-10"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08700.004734/2016-58"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08700.004219/2016-78"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08700.003836/2014-94"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08700.000292/2015-90"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08700.006571/2015-67"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08012.011750/2007-64"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08012.014594/2007-93"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08700.003462/2016-79"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "processo",
+    "object": "08012.001383/2007-91"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "analisa",
+    "object": "Iberia"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "analisa",
+    "object": "British"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "analisa",
+    "object": "British e Iberia"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "analisa",
+    "object": "TAM Linhas Aéreas S.A"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "mercado_relevante",
+    "object": "transporte aéreo de passageiros resulta em apenas duas sobreposições em rotas envolvendo o Brasil"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "mercado_relevante",
+    "object": "aviação e amplamente aceitos"
+  },
+  {
+    "subject": "Elvino de\nCarvalho Mendonça no",
+    "predicate": "autor_de",
+    "object": "NT_35_2016"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_35_2016"
+  },
+  {
+    "subject": "fez breves referências à discussão de barreiras à entrada",
+    "predicate": "autor_de",
+    "object": "NT_35_2016"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "tipo_operacao",
+    "object": "Fusão"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "processo",
+    "object": "08700.001846/2020-33"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "processo",
+    "object": "08700.001877/2020-94"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "processo",
+    "object": "08700.002466/2020-16"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "analisa",
+    "object": "Acesso restrito às requerentes"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "analisa",
+    "object": "Acesso restrito ao CADE"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "analisa",
+    "object": "Hapvida Assistência Médica Ltda"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "analisa",
+    "object": "Plamed Plano de Assistência Médica Ltda"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "mercado_relevante",
+    "object": "requerentes"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "mercado_relevante",
+    "object": "centros médicos e"
+  },
+  {
+    "subject": "CADE\n\nProcesso n",
+    "predicate": "autor_de",
+    "object": "NT_37"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08700.004860/2016-11"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08700.004865/2016-35"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08700.004919/2016-62"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08700.004921/2016-31"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08700.005686/2016-15"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08012.005300/2008-13"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08012.001037/2008-93"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08012.013152/2007-20"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "processo",
+    "object": "08700.003978/2012-90"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa",
+    "object": "BM&FBOVESPA S.A"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "analisa",
+    "object": "CETIP S.A"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "balcão"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "financiamento de veículos e crédito imobiliário"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "liquidação separado do mercado de"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "negociação e pouca variação de HHI no mercado de pós-negociação"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "transmissão de rádio por satélite"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "balcão não organizado brasileiro"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "balcão que a CETIP S"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "balcão como um todo"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "balcão não organizado como um todo"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "mercado_relevante",
+    "object": "soluções para o mercado de"
+  },
+  {
+    "subject": "refere que a falta de pressão competitiva em alguns setores",
+    "predicate": "autor_de",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "Elvino de Carvalho Mendonça no",
+    "predicate": "autor_de",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "destaca que todos os custos são vari",
+    "predicate": "autor_de",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "destaca que",
+    "predicate": "autor_de",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "executivo de produtos comerciais e marketing da CETIP S",
+    "predicate": "autor_de",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "focar",
+    "predicate": "autor_de",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "passa",
+    "predicate": "autor_de",
+    "object": "NT_38_2016"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "aplica_metodologia",
+    "object": "HHI"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Concentração"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_39",
+    "predicate": "processo",
+    "object": "08700.005979/2017-83"
+  },
+  {
+    "subject": "NT_39",
+    "predicate": "analisa",
+    "object": "Gardênia"
+  },
+  {
+    "subject": "NT_39",
+    "predicate": "analisa",
+    "object": "União Transporte Interestadual de Luxo S.A"
+  },
+  {
+    "subject": "NT_39",
+    "predicate": "analisa",
+    "object": "Expresso Gardênia Ltda"
+  },
+  {
+    "subject": "NT_39",
+    "predicate": "mercado_relevante",
+    "object": "questão é"
+  },
+  {
+    "subject": "NT_39",
+    "predicate": "mercado_relevante",
+    "object": "transporte de passageiros na seção"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_39"
+  },
+  {
+    "subject": "Cade\n\nAssinado eletronicamente no DOC SEI",
+    "predicate": "autor_de",
+    "object": "NT_39"
+  },
+  {
+    "subject": "NT_39",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_39",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "processo",
+    "object": "08700.005137/2017-21"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "analisa",
+    "object": "Owens-Illinois do Brasil Indústria e Comércio Ltda"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "analisa",
+    "object": "Nadir Figueiredo Indústria e Comércio S.A"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "analisa",
+    "object": "Wheaton do Brasil S.A"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "analisa",
+    "object": "Wheaton"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "questão"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "utilidades domésticas de vidro"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "utilidades domésticas de vidro é composto por produtores locais"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "utilidades domésticas é composto por diversos produtos como"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "utilidades domésticas de"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "agentes evoluíram de forma diferente"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "os últimos quatro anos"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "utilidades domésticas desagregado por NCMs"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "vez de seus valores absolutos"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "termos de receita"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "o triênio"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "que a"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "que a NF possui maior participação"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "utilidades domésticas de vidros"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "mercado_relevante",
+    "object": "copos"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\nGr",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\no",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\nos  copos  não  se  beneficiaram  dessas  medidas",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\nda  política",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\nmesma política",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\nContabilizando os custos de internação",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\nTabela",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\ncaso que após a operação",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\nNCM",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "CADE\n\nfragilidade  dos  resultados  obtidos",
+    "predicate": "autor_de",
+    "object": "NT_3"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "processo",
+    "object": "08700.003662/2018-93"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "analisa",
+    "object": "Transfederal Transporte de Valores Ltda"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "analisa",
+    "object": "Prosegur"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "analisa",
+    "object": "Transfederal"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "analisa",
+    "object": "Prosegur Brasil S.A"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "mercado_relevante",
+    "object": "transporte de valores - Análise"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "mercado_relevante",
+    "object": "transporte de valores - Análise dos"
+  },
+  {
+    "subject": "Carlos Ragazzo",
+    "predicate": "autor_de",
+    "object": "NT_40"
+  },
+  {
+    "subject": "sobre o Ato de Concentração Sadia",
+    "predicate": "autor_de",
+    "object": "NT_40"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_40"
+  },
+  {
+    "subject": "CADE\n\nque  trata  do  ato  de  concentração  entre  BM",
+    "predicate": "autor_de",
+    "object": "NT_40"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "aplica_metodologia",
+    "object": "Eficiências"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "processo",
+    "object": "08700.005683/2016-81"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "processo",
+    "object": "08700.005684/2016-26"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "processo",
+    "object": "08700.005898/2016-01"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "ano",
+    "object": "2016"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "analisa",
+    "object": "Argentina e representação no Brasil via SOLVAY INDUPA DO BRASIL S.A"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "analisa",
+    "object": "UNIPAR CARBOCLORO S.A"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "analisa",
+    "object": "Policloreto de Polivinila"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "analisa",
+    "object": "SOLVAY INDUPA S.A"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "analisa",
+    "object": "SOLVAY INDUPA DO BRASIL S.A"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "analisa",
+    "object": "Brasil via SOLVAY INDUPA DO BRASIL S.A"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "mercado_relevante",
+    "object": "soda cáustica"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Elasticidade"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_41_2016",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "processo",
+    "object": "08700.003594/2021-68"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "processo",
+    "object": "08700.007555/2016-72"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "processo",
+    "object": "08700.005470/2019-01"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "processo",
+    "object": "08700.004151/2012-01"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "processo",
+    "object": "08700.002346/2019-85"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "cada par formado pelo"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "ofertantes são usados como"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "requerentes em atos de concentração"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "prestadores localizados mais próximos da residência do paciente"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "prestadores mais bem localizados"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "decorrência do ato é um meio simples de se inferir possíveis problemas concorrenciais"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "prestação de saúde nem sempre é"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "prestação de serviços de saúde e de planos de saúde"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "oncologia variou em casos passados"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "prestação de"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "saúde"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "prestação de serviços de saúde quanto no de planos de saúde"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "mercado_relevante",
+    "object": "prestação de serviços de saúde"
+  },
+  {
+    "subject": "CADE\n\nReferência",
+    "predicate": "autor_de",
+    "object": "NT_44"
+  },
+  {
+    "subject": "sobre a de",
+    "predicate": "autor_de",
+    "object": "NT_44"
+  },
+  {
+    "subject": "tem  feito  esforço  para",
+    "predicate": "autor_de",
+    "object": "NT_44"
+  },
+  {
+    "subject": "não  encontrou  mo",
+    "predicate": "autor_de",
+    "object": "NT_44"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "aplica_metodologia",
+    "object": "Poder de Mercado"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "processo",
+    "object": "08700.002569/2020-86"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "ano",
+    "object": "2019"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "analisa",
+    "object": "Tupy S.A"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "mercado_relevante",
+    "object": "componentes de ferro fundido"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "mercado_relevante",
+    "object": "questão"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "mercado_relevante",
+    "object": "veículos leves e de passeio"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "mercado_relevante",
+    "object": "verificar como os concorrentes e os clientes das empresas requerentes percebem as importações de cabeçotes e blocos para motor"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "mercado_relevante",
+    "object": "boi gordo em Minas Gerais e São Paulo"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "mercado_relevante",
+    "object": "fundição"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "mercado_relevante",
+    "object": "veículos de passeio"
+  },
+  {
+    "subject": "teve como objeto a an",
+    "predicate": "autor_de",
+    "object": "NT_47"
+  },
+  {
+    "subject": "reuniu as respostas dos clientes das fundições no Quadro",
+    "predicate": "autor_de",
+    "object": "NT_47"
+  },
+  {
+    "subject": "entende que o teste de Forni",
+    "predicate": "autor_de",
+    "object": "NT_47"
+  },
+  {
+    "subject": "buscando atender ao DESPACHO SG N",
+    "predicate": "autor_de",
+    "object": "NT_47"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "aplica_metodologia",
+    "object": "Regressão"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "aplica_metodologia",
+    "object": "Barreiras à Entrada"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "aplica_metodologia",
+    "object": "Preço"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "tipo_operacao",
+    "object": "Aquisição"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_02_2015",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_05_2017",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_07_2016",
+    "predicate": "mercado_relevante",
+    "object": "Ferro de Silício"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_07_2017",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "Planos de Saúde"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "mercado_relevante",
+    "object": "Planos de Saúde"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "preocupacao",
+    "object": "participação relevante"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_07",
+    "predicate": "preocupacao",
+    "object": "concentração vertical"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_10_2016",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_10",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_12_2014",
+    "predicate": "mercado_relevante",
+    "object": "Pratos Prontos"
+  },
+  {
+    "subject": "NT_12_2015",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_14",
+    "predicate": "preocupacao",
+    "object": "conglomerado"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_15_2016",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_15",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_16_2016",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_18_2015",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_18",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "preocupacao",
+    "object": "prejuízo à concorrência"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_19_2015",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_19_2017",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "preocupacao",
+    "object": "discriminação de preços"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "preocupacao",
+    "object": "concentração vertical"
+  },
+  {
+    "subject": "NT_20",
+    "predicate": "preocupacao",
+    "object": "conglomerado"
+  },
+  {
+    "subject": "NT_21_2014",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "mercado_relevante",
+    "object": "Serviços Portuários"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_22",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_23_2014",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_24_2014",
+    "predicate": "mercado_relevante",
+    "object": "Policloreto de Vinila"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "mercado_relevante",
+    "object": "Insumos Agrícolas"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_24",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_25_2017",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_26",
+    "predicate": "preocupacao",
+    "object": "preço predatório"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "mercado_relevante",
+    "object": "GLP Granel"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_29_2017",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_29",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_2",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "Preservativos Masculinos"
+  },
+  {
+    "subject": "NT_30_2016",
+    "predicate": "mercado_relevante",
+    "object": "Lubrificantes Íntimos"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_30_2017",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_30",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_32",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_33_2017",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "mercado_relevante",
+    "object": "Serviço Móvel Pessoal"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "preocupacao",
+    "object": "efeitos unilaterais"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "preocupacao",
+    "object": "efeitos coordenados"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_34",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_35_2016",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "preocupacao",
+    "object": "discriminação de preços"
+  },
+  {
+    "subject": "NT_37",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "preocupacao",
+    "object": "preço predatório"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "preocupacao",
+    "object": "fechamento de mercado"
+  },
+  {
+    "subject": "NT_38_2016",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_3",
+    "predicate": "preocupacao",
+    "object": "participação relevante"
+  },
+  {
+    "subject": "NT_40",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "preocupacao",
+    "object": "poder de mercado"
+  },
+  {
+    "subject": "NT_44",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "preocupacao",
+    "object": "barreiras à entrada"
+  },
+  {
+    "subject": "NT_47",
+    "predicate": "preocupacao",
+    "object": "concentração horizontal"
+  }
+]
