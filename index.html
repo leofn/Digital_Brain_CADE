@@ -221,8 +221,11 @@ function toggleAllCommunities(hide) {
   LEGEND.forEach(c => {
     if (hide) hiddenCommunities.add(c.cid); else hiddenCommunities.delete(c.cid);
   });
+  
+  // Garantir que TODOS os nós sejam atualizados corretamente
   const updates = RAW_NODES.map(n => ({ id: n.id, hidden: hide }));
   nodesDS.update(updates);
+  
   updateSelectAllState();
 }
 
