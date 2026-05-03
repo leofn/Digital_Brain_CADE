@@ -23,18 +23,6 @@
     "type": "Ano",
     "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
   },
-  "Double": {
-    "type": "Empresa",
-    "source": "Nota_T_cnica_n__01_2015___Ato_de_Concentra__o_n__08700_009732_2014_93.md"
-  },
-  "Single": {
-    "type": "Empresa",
-    "source": "Nota_T_cnica_n__01_2015___Ato_de_Concentra__o_n__08700_009732_2014_93.md"
-  },
-  "Preço": {
-    "type": "Metodologia",
-    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
-  },
   "NT_02_2011": {
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
@@ -66,10 +54,6 @@
     "type": "Empresa",
     "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
   },
-  "Olavo Zaga Chinaglia\nRequerentes": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__02_2011___Ato_de_Concentra__o_n__08012_004654_2009_21.md"
-  },
   "NT_02_2014": {
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
@@ -80,14 +64,6 @@
   },
   "2014": {
     "type": "Ano",
-    "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
-  },
-  "Luiz Alberto Esteves\n\nReferência": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
-  },
-  "Autor": {
-    "type": "Autor",
     "source": "Nota_T_cnica_n__02_2014___Ato_de_Concentra__o_n__08700_004065_2012_91.md"
   },
   "NT_02_2015": {
@@ -195,42 +171,6 @@
       "Alesat\nComercial Importações e Exportações Ltda"
     ]
   },
-  "CADE\n\nReferência": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "Cade\n\nComo se pode ver pela Figura": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "Cade\n\nNa Figura": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "CadeTabela": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "Cade\n\nA Figura": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "Cade\n\nFigura": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "Cade\n\nDa Figura": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "Cade\n\nPelos  gr": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "Cade\n\nNa Tabela": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
   "CPPI": {
     "type": "Metodologia",
     "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
@@ -241,10 +181,6 @@
   },
   "Efeitos Coordenados": {
     "type": "Metodologia",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "Aquisição": {
-    "type": "Tipo de Operação",
     "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
   },
   "NT_06_2014": {
@@ -289,26 +225,6 @@
   },
   "Gross Upward Pricing Pressure": {
     "type": "Empresa",
-    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
-  },
-  "Cade executou an": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
-  },
-  "Cade\n\nDeve": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
-  },
-  "Cade\n\nA Tabela": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
-  },
-  "Cade de": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
-  },
-  "Fusão": {
-    "type": "Tipo de Operação",
     "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
   },
   "NT_07_2017": {
@@ -554,18 +470,6 @@
     "type": "Autor",
     "source": "Nota_T_cnica_n__38_2016___Ato_de_Concentra__o_n__08700_004860_2016_11.md"
   },
-  "CADE e": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
-  },
-  "CADE o seguinte": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
-  },
-  "CADE \n\nAssinado eletronicamente no DOCSEI": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
-  },
   "SSNIP": {
     "type": "Metodologia",
     "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
@@ -602,14 +506,6 @@
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__10___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
   },
-  "CADE\n\nAutos adicionais": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__10___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
-  },
-  "CADE abaixo": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__10___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
-  },
   "NT_12_2014": {
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__12_2014___Ato_de_Concentra__o_n__08700_000811_2014_39.md"
@@ -628,14 +524,6 @@
   },
   "Univation": {
     "type": "Empresa",
-    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
-  },
-  "CADE buscar": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
-  },
-  "CADE acerca da operação em questão é que h": {
-    "type": "Autor",
     "source": "Nota_T_cnica_n__12_2015___Ato_de_Concentra__o__n__08700_010224_2014_58.md"
   },
   "Downstream": {
@@ -717,20 +605,8 @@
     "type": "Empresa",
     "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
   },
-  "CADE\n\nVERSÃO PÚBLICA\n\nReferência": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__15___Ato_de_Concentra__o_n__08700_001128_2023_18_doc2.md"
-  },
-  "Cadeia Produtiva": {
-    "type": "Metodologia",
-    "source": "Nota_T_cnica_n__18_2015___Ato_de_Concentra__o_n__08700_009465_2014_54.md"
-  },
   "NT_15_2016": {
     "type": "Nota Técnica",
-    "source": "Nota_T_cnica_n__15_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
-  },
-  "CADE baseiam": {
-    "type": "Autor",
     "source": "Nota_T_cnica_n__15_2016___Ato_de_Concentra__o_n__08700_010790_2015_41.md"
   },
   "NT_15": {
@@ -808,14 +684,6 @@
   },
   "NT_16": {
     "type": "Nota Técnica",
-    "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
-  },
-  "CADE e reforçam os resultados previamente apresentados": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
-  },
-  "CADE e reforçando os resultados previamente apresentados": {
-    "type": "Autor",
     "source": "Nota_T_cnica_n__16___Ato_de_Concentra__o_n__08700_009924_2013_19.md"
   },
   "NT_17_2014": {
@@ -929,10 +797,6 @@
     "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md"
   },
   "Executivo da JBS até janeiro de": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md"
-  },
-  "CADE\n\nAutos n": {
     "type": "Autor",
     "source": "Nota_T_cnica_n__19_2017___Ato_de_Concentra__o_n__08700_007553_2016_83.md"
   },
@@ -1220,10 +1084,6 @@
       "Fosbrasil  S.A"
     ]
   },
-  "Versão PÚBLICA\n\nAto de Concentração n": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__21_2014___Ato_de_Concentra__o_n__08700_000344_2014_47.md"
-  },
   "NT_22": {
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__22___Ato_de_Concentra__o_n__08700_006512_2021_37.md"
@@ -1352,19 +1212,7 @@
     "type": "Autor",
     "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
   },
-  "CADE com base no estudo da OCDE": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
-  },
   "Figura": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
-  },
-  "CADE\n\nTabela": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
-  },
-  "CADE\n\nProb": {
     "type": "Autor",
     "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
   },
@@ -1372,19 +1220,7 @@
     "type": "Autor",
     "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
   },
-  "CADE\n\nVariação": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
-  },
   "Ou  seja": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
-  },
-  "CADE\n\nEm que pese\nbaixa intersecção": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
-  },
-  "CADE\n\nBrasília": {
     "type": "Autor",
     "source": "Nota_T_cnica_n__23_2014___Ato_de_Concentra__o_n__08700_004185_2014_50.md"
   },
@@ -1393,10 +1229,6 @@
     "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
   },
   "Difference-in-Differences": {
-    "type": "Empresa",
-    "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
-  },
-  "Requerentes": {
     "type": "Empresa",
     "source": "Nota_T_cnica_n__24_2014___Ato_de_Concentra__o_n__08700_000436_2014_27.md"
   },
@@ -1448,20 +1280,12 @@
     "type": "Processo",
     "source": "Nota_T_cnica_n__33_2017___Ato_de_Concentra__o_n__08700_001097_2017_49.md"
   },
-  "A presente operação consiste na parceria comercial entre GDM Genética do Brasil S.A": {
-    "type": "Empresa",
-    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
-  },
   "Autos principais públicos": {
     "type": "Empresa",
     "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
   },
   "GDM Genética do Brasil S.A": {
     "type": "Empresa",
-    "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
-  },
-  "CADE \n\nAssinado eletronicamente DOCSEI": {
-    "type": "Autor",
     "source": "Nota_T_cnica_n__24___Ato_de_Concentra__o_n__08700_002855_2022_11.md"
   },
   "NT_25_2017": {
@@ -1482,34 +1306,6 @@
     "aliases": [
       "Localiza Rent a Car S.A"
     ]
-  },
-  "CADE\n\nProcesso": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
-  },
-  "CADE na presente an": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
-  },
-  "CADE avaliou as demonstrações": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
-  },
-  "CADE compreendem custos que variam entre": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
-  },
-  "CADE avaliou o custo anual e o percentual das e": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
-  },
-  "CADE  compreendem  custos  que  variam  entre": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
-  },
-  "CADE\ncompreendem custos que variam entre": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
   },
   "NT_28_2017": {
     "type": "Nota Técnica",
@@ -1633,10 +1429,6 @@
     "type": "Empresa",
     "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
   },
-  "CADE\n\nProcesso n": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
-  },
   "Ficarão mais claras as mo": {
     "type": "Autor",
     "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_000472_2020_39.md"
@@ -1698,14 +1490,6 @@
     "type": "Autor",
     "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
   },
-  "CADE  da  operação  Brink": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
-  },
-  "CADE\n\nAssinado eletronicamente": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
-  },
   "NT_2": {
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_000869_2015_63.md"
@@ -1753,18 +1537,6 @@
     "type": "Empresa",
     "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
   },
-  "CADE e no Parecer": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
-  },
-  "CADE e o Parecer": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
-  },
-  "CADE referente ao AC n": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__2___Ato_de_Concentra__o_n__08700_002165_2017_97.md"
-  },
   "NT_30_2016": {
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
@@ -1779,30 +1551,6 @@
     "aliases": [
       "Hypermarcas S.A"
     ]
-  },
-  "CADE\n\nProcesso n": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
-  },
-  "Cade\n\n  Tabela": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
-  },
-  "Cade\n\nNo gr": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
-  },
-  "Cade\n\nTabela": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
-  },
-  "Cade\n\nComo se observa": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
-  },
-  "Cade\n\nEm absolutamente todos os cen": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30_2016___Ato_de_Concentra__o_n__08700_003462_2016_79.md"
   },
   "NT_30_2017": {
     "type": "Nota Técnica",
@@ -1986,10 +1734,6 @@
     "type": "Empresa",
     "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
   },
-  "CADE\nVERSÃO PÚBLICA\nReferência": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
-  },
   "Imagine": {
     "type": "Autor",
     "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_003959_2022_35.md"
@@ -2035,22 +1779,6 @@
     "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
   },
   "Sérgio Costa Ravagnani": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
-  },
-  "CADE fez uma avaliação de tais integrações": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
-  },
-  "CADE apresenta algumas crí": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
-  },
-  "CADE procedeu tal avaliação": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
-  },
-  "CADE  analisou": {
     "type": "Autor",
     "source": "Nota_T_cnica_n__30___Ato_de_Concentra__o_n__08700_004426_2020_17.md"
   },
@@ -2119,16 +1847,8 @@
     "type": "Empresa",
     "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md"
   },
-  "CADE\n\nVERSÃO DE ACESSO PÚBLICO\n\nReferência": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__32___Ato_de_Concentra__o_n__08700_004046_2022_36.md"
-  },
   "NT_33_2017": {
     "type": "Nota Técnica",
-    "source": "Nota_T_cnica_n__33_2017___Ato_de_Concentra__o_n__08700_001097_2017_49.md"
-  },
-  "Cisão": {
-    "type": "Tipo de Operação",
     "source": "Nota_T_cnica_n__33_2017___Ato_de_Concentra__o_n__08700_001097_2017_49.md"
   },
   "NT_34": {
@@ -2225,10 +1945,6 @@
   },
   "TAM Linhas Aéreas S.A": {
     "type": "Empresa",
-    "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
-  },
-  "Elvino de\nCarvalho Mendonça no": {
-    "type": "Autor",
     "source": "Nota_T_cnica_n__35_2016___Ato_de_Concentra__o_n__08700_004211_2016_10.md"
   },
   "NT_37": {
@@ -2333,10 +2049,6 @@
       "Expresso  Gardênia  Ltda"
     ]
   },
-  "Cade\n\nAssinado eletronicamente no DOC SEI": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__39___Ato_de_Concentra__o_n__08700_005979_2017_83.md"
-  },
   "NT_3": {
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
@@ -2367,42 +2079,6 @@
     "type": "Empresa",
     "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
   },
-  "CADE\n\nGr": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
-  "CADE\n\no": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
-  "CADE\n\nos  copos  não  se  beneficiaram  dessas  medidas": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
-  "CADE\n\nda  política": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
-  "CADE\n\nmesma política": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
-  "CADE\n\nContabilizando os custos de internação": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
-  "CADE\n\ncaso que após a operação": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
-  "CADE\n\nNCM": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
-  "CADE\n\nfragilidade  dos  resultados  obtidos": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__3___Ato_de_Concentra__o_n__08700_005137_2017_21.md"
-  },
   "NT_40": {
     "type": "Nota Técnica",
     "source": "Nota_T_cnica_n__40___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
@@ -2412,10 +2088,6 @@
     "source": "Nota_T_cnica_n__40___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
   },
   "Carlos Ragazzo": {
-    "type": "Autor",
-    "source": "Nota_T_cnica_n__40___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
-  },
-  "CADE\n\nque  trata  do  ato  de  concentração  entre  BM": {
     "type": "Autor",
     "source": "Nota_T_cnica_n__40___Ato_de_Concentra__o_n__08700_003662_2018_93.md"
   },
@@ -2503,10 +2175,6 @@
     "type": "Mercado",
     "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
   },
-  "Rent a Car": {
-    "type": "Mercado",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
-  },
   "GLP Envasado": {
     "type": "Mercado",
     "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
@@ -2519,33 +2187,9 @@
     "type": "Mercado",
     "source": "Nota_T_cnica_n__29___Ato_de_Concentra__o_n__08700_003244_2019_87.md"
   },
-  "poder de mercado": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
-  },
-  "concentração horizontal": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__02_2015___Ato_de_Concentra__o_n__08700_009711_2014_78.md"
-  },
-  "efeitos unilaterais": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "efeitos coordenados": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__05_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
   "Ferro de Silício": {
     "type": "Mercado",
     "source": "Nota_T_cnica_n__07_2016___Ato_de_Concentra__o_n__08700_010266_2015_70.md"
-  },
-  "barreiras à entrada": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__07_2017___Ato_de_Concentra__o_n__08700_006185_2016_56.md"
-  },
-  "Planos de Saúde Médico-Hospitalar Coletivos": {
-    "type": "Mercado",
-    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
   },
   "Planos de Saúde": {
     "type": "Mercado",
@@ -2555,33 +2199,9 @@
     "type": "Mercado",
     "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
   },
-  "participação relevante": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
-  },
-  "fechamento de mercado": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
-  },
-  "concentração vertical": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__07___Ato_de_Concentra__o_n__08700_002346_2019_85.md"
-  },
   "Pratos Prontos": {
     "type": "Mercado",
     "source": "Nota_T_cnica_n__12_2014___Ato_de_Concentra__o_n__08700_000811_2014_39.md"
-  },
-  "conglomerado": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__14___Ato_de_Concentra__o_n__08700_005700_2021_48.md"
-  },
-  "prejuízo à concorrência": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__19_2015___Ato_de_Concentra__o_n__08700_009988_2014_09.md"
-  },
-  "discriminação de preços": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__20___Ato_de_Concentra__o_n__08700_006345_2018_29.md"
   },
   "Serviços Portuários": {
     "type": "Mercado",
@@ -2598,14 +2218,6 @@
   "Derivados de Petróleo": {
     "type": "Mercado",
     "source": "Nota_T_cnica_n__25_2017___Ato_de_Concentra__o_n__08700_006444_2016_49.md"
-  },
-  "preço predatório": {
-    "type": "Preocupação Concordrencial",
-    "source": "Nota_T_cnica_n__26___Ato_de_Concentra__o_n__08700_000149_2021_46.md"
-  },
-  "GLP granel": {
-    "type": "Mercado",
-    "source": "Nota_T_cnica_n__29_2017___Ato_de_Concentra__o_n__08700_002155_2017_51.md"
   },
   "Preservativos Masculinos": {
     "type": "Mercado",
